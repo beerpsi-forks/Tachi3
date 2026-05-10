@@ -191,6 +191,10 @@ function slugChunithm(folder: SeedFolderRow): string {
 	const vfPart = asciiSlugSegment(rawVf);
 	const w = folder.where;
 
+	if (w === "(chart.data->>'inGameID')::numeric >= 8000") {
+		return `worlds-end-${vfPart}`;
+	}
+
 	const mLv = CHART_LEVEL_EQ_RE.exec(w);
 
 	if (mLv !== null) {

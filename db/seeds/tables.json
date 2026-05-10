@@ -1792,6 +1792,60 @@
 		"title": "CHUNITHM (X-VERSE Omnimix) (Difficulties)"
 	},
 	{
+		"default": false,
+		"description": "Levels for CHUNITHM in X-VERSE-X.",
+		"folders": [
+			"1-xversex",
+			"2-xversex",
+			"3-xversex",
+			"4-xversex",
+			"5-xversex",
+			"6-xversex",
+			"7-xversex",
+			"7p-xversex",
+			"8-xversex",
+			"8p-xversex",
+			"9-xversex",
+			"9p-xversex",
+			"10-xversex",
+			"10p-xversex",
+			"11-xversex",
+			"11p-xversex",
+			"12-xversex",
+			"12p-xversex",
+			"13-xversex",
+			"13p-xversex",
+			"14-xversex",
+			"14p-xversex",
+			"15-xversex",
+			"15p-xversex",
+			"16-xversex"
+		],
+		"game": "chunithm",
+		"id": "T19e10a9fc570ca11555",
+		"inactive": false,
+		"legacyTableID": "chunithm-Single-xversex-levels",
+		"title": "CHUNITHM (X-VERSE-X)"
+	},
+	{
+		"default": false,
+		"description": "Difficulties for CHUNITHM in X-VERSE-X.",
+		"folders": [
+			"basic-xversex",
+			"advanced-xversex",
+			"expert-xversex",
+			"master-xversex",
+			"ultima-xversex",
+			"master-ultima-xversex",
+			"worlds-end-xversex"
+		],
+		"game": "chunithm",
+		"id": "T19e10a9fc570e565e8e",
+		"inactive": false,
+		"legacyTableID": "chunithm-Single-xversex-difficulties",
+		"title": "CHUNITHM (X-VERSE-X) (Difficulties)"
+	},
+	{
 		"default": true,
 		"description": "Levels for CHUNITHM in X-VERSE.",
 		"folders": [
