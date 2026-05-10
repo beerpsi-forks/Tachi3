@@ -1903,7 +1903,7 @@
 		"title": "CHUNITHM (X-VERSE-X Omnimix) (Difficulties)"
 	},
 	{
-		"default": false,
+		"default": true,
 		"description": "Levels for CHUNITHM in X-VERSE-X.",
 		"folders": [
 			"1-xversex",
@@ -1957,7 +1957,7 @@
 		"title": "CHUNITHM (X-VERSE-X) (Difficulties)"
 	},
 	{
-		"default": true,
+		"default": false,
 		"description": "Levels for CHUNITHM in X-VERSE.",
 		"folders": [
 			"1-xverse",
