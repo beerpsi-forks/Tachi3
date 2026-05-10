@@ -154,8 +154,15 @@ const inGameIDToSongIDMap = new Map<number, string>();
 const existingCharts = new Map<string, SEEDS_ChartDocument<"chunithm">>();
 
 for (const chart of existingChartDocs) {
-	inGameIDToSongIDMap.set(chart.data.inGameID, chart.songID);
-	existingCharts.set(`${chart.data.inGameID}-${chart.difficulty}`, chart);
+	if (Array.isArray(chart.data.inGameID)) {
+		for (const igid of chart.data.inGameID) {
+			inGameIDToSongIDMap.set(igid, chart.songID);
+			existingCharts.set(`${igid}-${chart.difficulty}`, chart);
+		}
+	} else {
+		inGameIDToSongIDMap.set(chart.data.inGameID, chart.songID);
+		existingCharts.set(`${chart.data.inGameID}-${chart.difficulty}`, chart);
+	}
 }
 
 const parser = new XMLParser({

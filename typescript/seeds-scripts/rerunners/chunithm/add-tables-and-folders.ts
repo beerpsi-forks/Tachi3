@@ -100,7 +100,7 @@ for (const difficulty of DIFFICULTIES) {
 		folder.legacyFolderID = CreateLegacyFolderID({ difficulty: { "~in": ["MASTER", "ULTIMA"] }, versions: version }, "chunithm", "Single");
 	} else if (difficulty === "WORLD'S END") {
 		folder.where = "(chart.data->>'inGameID')::numeric >= 8000";
-		folder.legacyFolderID = CreateLegacyFolderID({ "data¬inGameID": { "~ge": 8000 } }, "chunithm", "Single");
+		folder.legacyFolderID = CreateLegacyFolderID({ "data¬inGameID": { "~ge": 8000 }, versions: version }, "chunithm", "Single");
 	} else {
 		folder.where = `chart.difficulty = '${difficulty}'`;
 		folder.legacyFolderID = CreateLegacyFolderID({ difficulty, versions: version }, "chunithm", "Single");

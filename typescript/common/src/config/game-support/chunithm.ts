@@ -195,7 +195,7 @@ export const GAME_CHUNITHM_CONF = {
 	},
 
 	chartData: z.strictObject({
-		inGameID: zodNonNegativeInt,
+		inGameID: z.union([z.array(zodNonNegativeInt), zodNonNegativeInt]),
 		displayVersion: z.string(),
 	}),
 

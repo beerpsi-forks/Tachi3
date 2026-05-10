@@ -1956,7 +1956,7 @@
 	{
 		"data": {
 			"displayVersion": "CHUNITHM X-VERSE",
-			"inGameID": 8309
+			"inGameID": [8008, 8309]
 		},
 		"difficulty": "時☆3",
 		"id": "C19e107c92413abb598c",
@@ -1966,20 +1966,6 @@
 		"levelNum": 0,
 		"songID": "S19d35e0b947d8ff5766",
 		"versions": ["xversex", "xversex-omni", "xversex-intl"]
-	},
-	{
-		"data": {
-			"displayVersion": "CHUNITHM PLUS",
-			"inGameID": 8008
-		},
-		"difficulty": "時☆3",
-		"id": "C19e10e7a4015e58aa41",
-		"isPrimary": true,
-		"legacyChartID": "7abe2836d12e1480a1f25a6555ef36d10143d50e",
-		"level": "",
-		"levelNum": 0,
-		"songID": "S19d35e0b947d8ff5766",
-		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -6067,7 +6053,7 @@
 	{
 		"data": {
 			"displayVersion": "CHUNITHM X-VERSE",
-			"inGameID": 8306
+			"inGameID": [8009, 8306]
 		},
 		"difficulty": "割☆3",
 		"id": "C19e107c923fe8b76289",
@@ -6077,20 +6063,6 @@
 		"levelNum": 0,
 		"songID": "S19d35e0b96dd1384607",
 		"versions": ["xversex", "xversex-omni", "xversex-intl"]
-	},
-	{
-		"data": {
-			"displayVersion": "CHUNITHM PLUS",
-			"inGameID": 8009
-		},
-		"difficulty": "割☆3",
-		"id": "C19e10e7a401afec7764",
-		"isPrimary": true,
-		"legacyChartID": "21933f53b9329772b4ea3f2878b3932fb65898d7",
-		"level": "",
-		"levelNum": 0,
-		"songID": "S19d35e0b96dd1384607",
-		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -8346,7 +8318,7 @@
 			"displayVersion": "CHUNITHM CRYSTAL PLUS",
 			"inGameID": 8190
 		},
-		"difficulty": "分☆3",
+		"difficulty": "分☆3 (A)",
 		"id": "C19e10e7a402592a3120",
 		"isPrimary": true,
 		"legacyChartID": "9249cfd002fca115263c63689d2ff8864bd09b8a",
@@ -8360,7 +8332,7 @@
 			"displayVersion": "CHUNITHM CRYSTAL PLUS",
 			"inGameID": 8191
 		},
-		"difficulty": "分☆3",
+		"difficulty": "分☆3 (B)",
 		"id": "C19e10e7a4020088d89b",
 		"isPrimary": true,
 		"legacyChartID": "c816a8006c01dffc99ab8a74dad0dc7a181f6854",
@@ -8374,7 +8346,7 @@
 			"displayVersion": "CHUNITHM CRYSTAL PLUS",
 			"inGameID": 8192
 		},
-		"difficulty": "分☆3",
+		"difficulty": "分☆3 (C)",
 		"id": "C19e10e7a40295017c36",
 		"isPrimary": true,
 		"legacyChartID": "84509a42c87f1518228fc7427132b6d07c20a502",
