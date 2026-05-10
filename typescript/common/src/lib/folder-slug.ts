@@ -191,7 +191,10 @@ function slugChunithm(folder: SeedFolderRow): string {
 	const vfPart = asciiSlugSegment(rawVf);
 	const w = folder.where;
 
-	if (w === "(chart.data->>'inGameID')::numeric >= 8000") {
+	if (
+		w ===
+		"((jsonb_typeof(chart.data->'inGameID') = 'number' AND (chart.data->>'inGameID')::int >= 8000) OR (jsonb_typeof(chart.data->'inGameID') = 'array' AND jsonb_path_match(chart.data->'inGameID', '!exists($.* ? (@ < 8000))')))"
+	) {
 		return `worlds-end-${vfPart}`;
 	}
 

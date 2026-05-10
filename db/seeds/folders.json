@@ -12598,7 +12598,7 @@
 		"slug": "worlds-end-verse-omni",
 		"title": "WORLD'S END (VERSE Omnimix)",
 		"versionFilter": ["verse-omni"],
-		"where": "(chart.data->>'inGameID')::numeric >= 8000"
+		"where": "((jsonb_typeof(chart.data->'inGameID') = 'number' AND (chart.data->>'inGameID')::int >= 8000) OR (jsonb_typeof(chart.data->'inGameID') = 'array' AND jsonb_path_match(chart.data->'inGameID', '!exists($.* ? (@ < 8000))')))"
 	},
 	{
 		"game": "chunithm",
@@ -12609,7 +12609,7 @@
 		"slug": "worlds-end-verse",
 		"title": "WORLD'S END (VERSE)",
 		"versionFilter": ["verse"],
-		"where": "(chart.data->>'inGameID')::numeric >= 8000"
+		"where": "((jsonb_typeof(chart.data->'inGameID') = 'number' AND (chart.data->>'inGameID')::int >= 8000) OR (jsonb_typeof(chart.data->'inGameID') = 'array' AND jsonb_path_match(chart.data->'inGameID', '!exists($.* ? (@ < 8000))')))"
 	},
 	{
 		"game": "chunithm",
@@ -12620,7 +12620,7 @@
 		"slug": "worlds-end-xverse-omni",
 		"title": "WORLD'S END (X-VERSE Omnimix)",
 		"versionFilter": ["xverse-omni"],
-		"where": "(chart.data->>'inGameID')::numeric >= 8000"
+		"where": "((jsonb_typeof(chart.data->'inGameID') = 'number' AND (chart.data->>'inGameID')::int >= 8000) OR (jsonb_typeof(chart.data->'inGameID') = 'array' AND jsonb_path_match(chart.data->'inGameID', '!exists($.* ? (@ < 8000))')))"
 	},
 	{
 		"game": "chunithm",
@@ -12631,7 +12631,7 @@
 		"slug": "worlds-end-xversex-intl",
 		"title": "WORLD'S END (X-VERSE-X International)",
 		"versionFilter": ["xversex-intl"],
-		"where": "(chart.data->>'inGameID')::numeric >= 8000"
+		"where": "((jsonb_typeof(chart.data->'inGameID') = 'number' AND (chart.data->>'inGameID')::int >= 8000) OR (jsonb_typeof(chart.data->'inGameID') = 'array' AND jsonb_path_match(chart.data->'inGameID', '!exists($.* ? (@ < 8000))')))"
 	},
 	{
 		"game": "chunithm",
@@ -12642,7 +12642,7 @@
 		"slug": "worlds-end-xversex-omni",
 		"title": "WORLD'S END (X-VERSE-X Omnimix)",
 		"versionFilter": ["xversex-omni"],
-		"where": "(chart.data->>'inGameID')::numeric >= 8000"
+		"where": "((jsonb_typeof(chart.data->'inGameID') = 'number' AND (chart.data->>'inGameID')::int >= 8000) OR (jsonb_typeof(chart.data->'inGameID') = 'array' AND jsonb_path_match(chart.data->'inGameID', '!exists($.* ? (@ < 8000))')))"
 	},
 	{
 		"game": "chunithm",
@@ -12653,7 +12653,7 @@
 		"slug": "worlds-end-xversex",
 		"title": "WORLD'S END (X-VERSE-X)",
 		"versionFilter": ["xversex"],
-		"where": "(chart.data->>'inGameID')::numeric >= 8000"
+		"where": "((jsonb_typeof(chart.data->'inGameID') = 'number' AND (chart.data->>'inGameID')::int >= 8000) OR (jsonb_typeof(chart.data->'inGameID') = 'array' AND jsonb_path_match(chart.data->'inGameID', '!exists($.* ? (@ < 8000))')))"
 	},
 	{
 		"game": "chunithm",
@@ -12664,7 +12664,7 @@
 		"slug": "worlds-end-xverse",
 		"title": "WORLD'S END (X-VERSE)",
 		"versionFilter": ["xverse"],
-		"where": "(chart.data->>'inGameID')::numeric >= 8000"
+		"where": "((jsonb_typeof(chart.data->'inGameID') = 'number' AND (chart.data->>'inGameID')::int >= 8000) OR (jsonb_typeof(chart.data->'inGameID') = 'array' AND jsonb_path_match(chart.data->'inGameID', '!exists($.* ? (@ < 8000))')))"
 	},
 	{
 		"game": "ddr-dp",

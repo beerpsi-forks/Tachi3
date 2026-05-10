@@ -115,7 +115,10 @@ for (const difficulty of DIFFICULTIES) {
 			"Single",
 		);
 	} else if (difficulty === "WORLD'S END") {
-		folder.where = "(chart.data->>'inGameID')::numeric >= 8000";
+		// inGameID is a number and inGameID >= 8000
+		// OR inGameID is an array and all numbers must be >= 8000
+		folder.where =
+			"((jsonb_typeof(chart.data->'inGameID') = 'number' AND (chart.data->>'inGameID')::int >= 8000) OR (jsonb_typeof(chart.data->'inGameID') = 'array' AND jsonb_path_match(chart.data->'inGameID', '!exists($.* ? (@ < 8000))')))";
 		folder.legacyFolderID = CreateLegacyFolderID(
 			{ "data¬inGameID": { "~ge": 8000 }, versions: version },
 			"chunithm",
