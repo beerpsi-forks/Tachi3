@@ -6,7 +6,7 @@ import {
 	type SEEDS_ChartDocument,
 	type Difficulties,
 	type integer,
-	LEGACY_GetGamePTConfig,
+	GetGameConfig,
 	type SEEDS_SongDocument,
 } from "tachi-common";
 
@@ -138,7 +138,7 @@ const program = new Command()
 const options = program.opts();
 
 const baseVersion = options.version.replace(/(-intl|-omni)$/u, "");
-const tachiVersions = Object.keys(LEGACY_GetGamePTConfig("chunithm", "Single").versions);
+const tachiVersions = Object.keys(GetGameConfig("chunithm").versions);
 
 if (!VERSIONS.includes(baseVersion)) {
 	throw new Error(
@@ -436,7 +436,7 @@ for (const optionsDir of options.input) {
 
 					// A later option may modify a new song in an earlier option, so we have to keep
 					// track of that too. Awesome.
-					existingCharts.set(`${inGameID}-${difficultyName}`, chartDoc);
+					existingCharts.set(`${inGameID}-${difficulty}`, chartDoc);
 
 					log.info(
 						`Added chart ${musicData.artistName.str} - ${musicData.name.str} [${difficulty}] (${chartDoc.id}).`,
@@ -483,7 +483,11 @@ for (const optionsDir of options.input) {
 							exists.levelNum = levelNum;
 						}
 
-						if (isLatestVersion && exists.data.displayVersion !== displayVersion) {
+						if (
+							isLatestVersion &&
+							difficultyName !== "ULTIMA" &&
+							exists.data.displayVersion !== displayVersion
+						) {
 							log.info(
 								`Chart ${displayName} has had a displayVersion change: ${exists.data.displayVersion} -> ${displayVersion}`,
 							);
@@ -497,6 +501,10 @@ for (const optionsDir of options.input) {
 						continue;
 					}
 
+					const chartDisplayVersion =
+						difficultyName === "ULTIMA"
+							? `CHUNITHM ${GetGameConfig("chunithm").versions[baseVersion]}`
+							: displayVersion;
 					const chartDoc: SEEDS_ChartDocument<"chunithm"> = {
 						id: CreateChartID(),
 						legacyChartID: randomHex(20),
@@ -508,7 +516,7 @@ for (const optionsDir of options.input) {
 						versions: [options.version],
 						data: {
 							inGameID,
-							displayVersion,
+							displayVersion: chartDisplayVersion,
 						},
 					};
 

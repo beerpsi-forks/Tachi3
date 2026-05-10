@@ -37,9 +37,21 @@ const LEVELS = [
 	"15+",
 	"16",
 ];
-const DIFFICULTIES = ["BASIC", "ADVANCED", "EXPERT", "MASTER", "ULTIMA", "MASTER+ULTIMA", "WORLD'S END"];
+const DIFFICULTIES = [
+	"BASIC",
+	"ADVANCED",
+	"EXPERT",
+	"MASTER",
+	"ULTIMA",
+	"MASTER+ULTIMA",
+	"WORLD'S END",
+];
 
-const existingFolderSlugs = new Set((ReadCollection("folders.json") as Array<SEEDS_FolderDocument>).filter((f) => f.game === "chunithm").map((f) => f.slug));
+const existingFolderSlugs = new Set(
+	(ReadCollection("folders.json") as Array<SEEDS_FolderDocument>)
+		.filter((f) => f.game === "chunithm")
+		.map((f) => f.slug),
+);
 
 const command = new Command().requiredOption("-v, --version <version>").parse(process.argv);
 const options = command.opts();
@@ -97,18 +109,30 @@ for (const difficulty of DIFFICULTIES) {
 
 	if (difficulty === "MASTER+ULTIMA") {
 		folder.where = "chart.difficulty IN ('MASTER', 'ULTIMA')";
-		folder.legacyFolderID = CreateLegacyFolderID({ difficulty: { "~in": ["MASTER", "ULTIMA"] }, versions: version }, "chunithm", "Single");
+		folder.legacyFolderID = CreateLegacyFolderID(
+			{ difficulty: { "~in": ["MASTER", "ULTIMA"] }, versions: version },
+			"chunithm",
+			"Single",
+		);
 	} else if (difficulty === "WORLD'S END") {
 		folder.where = "(chart.data->>'inGameID')::numeric >= 8000";
-		folder.legacyFolderID = CreateLegacyFolderID({ "data¬inGameID": { "~ge": 8000 }, versions: version }, "chunithm", "Single");
+		folder.legacyFolderID = CreateLegacyFolderID(
+			{ "data¬inGameID": { "~ge": 8000 }, versions: version },
+			"chunithm",
+			"Single",
+		);
 	} else {
 		folder.where = `chart.difficulty = '${difficulty}'`;
-		folder.legacyFolderID = CreateLegacyFolderID({ difficulty, versions: version }, "chunithm", "Single");
+		folder.legacyFolderID = CreateLegacyFolderID(
+			{ difficulty, versions: version },
+			"chunithm",
+			"Single",
+		);
 	}
 
 	folder.slug = computeFolderSlug(folder);
 
-	difficultyFolderSlugs.push(folder.slug)
+	difficultyFolderSlugs.push(folder.slug);
 
 	if (existingFolderSlugs.has(folder.slug)) {
 		continue;
@@ -119,7 +143,7 @@ for (const difficulty of DIFFICULTIES) {
 }
 
 MutateCollection("tables.json", (ts: Array<SEEDS_TableDocument>) => {
-	const levelTableTitle = `CHUNITHM (${versionName})`
+	const levelTableTitle = `CHUNITHM (${versionName})`;
 	const levelTable = ts.find((t) => t.title === levelTableTitle);
 
 	const difficultyTableTitle = `CHUNITHM (${versionName}) (Difficulties)`;
