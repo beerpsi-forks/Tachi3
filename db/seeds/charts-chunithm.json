@@ -249,7 +249,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM NEW",
 			"inGameID": 3
 		},
 		"difficulty": "ULTIMA",
@@ -297,7 +297,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b935765ded25",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -311,7 +311,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b935765ded25",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -417,7 +425,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b93798964872",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -577,7 +585,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM NEW PLUS",
 			"inGameID": 6
 		},
 		"difficulty": "ULTIMA",
@@ -624,7 +632,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b938222962f2",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": ["xverse", "xverse-omni", "xversex", "xversex-intl", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -638,7 +646,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b938222962f2",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -992,7 +1000,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b93cd9bb5207",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -1400,7 +1408,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM SUN",
 			"inGameID": 18
 		},
 		"difficulty": "ULTIMA",
@@ -1595,7 +1603,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9453fd86574",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -1755,7 +1763,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM AIR PLUS",
+			"displayVersion": "CHUNITHM LUMINOUS",
 			"inGameID": 20
 		},
 		"difficulty": "ULTIMA",
@@ -1795,7 +1803,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b946dcf338f3",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -1965,7 +1973,14 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b947d8ff5766",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -2135,7 +2150,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b94954074887",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -2451,7 +2466,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM VERSE",
 			"inGameID": 27
 		},
 		"difficulty": "ULTIMA",
@@ -2733,7 +2748,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b95319d247f8",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -2747,7 +2762,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b95319d247f8",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -2999,7 +3022,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM PLUS",
+			"displayVersion": "CHUNITHM LUMINOUS PLUS",
 			"inGameID": 35
 		},
 		"difficulty": "ULTIMA",
@@ -3246,7 +3269,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM AIR",
+			"displayVersion": "CHUNITHM SUN",
 			"inGameID": 37
 		},
 		"difficulty": "ULTIMA",
@@ -3431,7 +3454,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM SUN PLUS",
 			"inGameID": 38
 		},
 		"difficulty": "ULTIMA",
@@ -3721,7 +3744,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b95b83a63059",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -4065,7 +4088,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM NEW PLUS",
 			"inGameID": 45
 		},
 		"difficulty": "ULTIMA",
@@ -4112,7 +4135,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b95f9284094b",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -4282,7 +4305,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b960f0148812",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -4442,7 +4465,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM NEW",
 			"inGameID": 47
 		},
 		"difficulty": "ULTIMA",
@@ -4636,7 +4659,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM SUN",
 			"inGameID": 48
 		},
 		"difficulty": "ULTIMA",
@@ -4838,7 +4861,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b963c69dd34f",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -5008,7 +5031,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b965be569cce",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -5178,7 +5201,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b966a68cb649",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -5338,7 +5361,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM X-VERSE",
 			"inGameID": 53
 		},
 		"difficulty": "ULTIMA",
@@ -5369,7 +5392,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b967d5c2b801",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": ["xversex", "xversex-intl", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -5383,7 +5406,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b967d5c2b801",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -5765,7 +5788,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b96be4a8d806",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -6017,7 +6040,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM X-VERSE",
 			"inGameID": 59
 		},
 		"difficulty": "ULTIMA",
@@ -6048,7 +6071,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b96dd1384607",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -6062,7 +6085,14 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b96dd1384607",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -6324,7 +6354,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b96f4f686941",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -6640,7 +6670,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM NEW PLUS",
 			"inGameID": 63
 		},
 		"difficulty": "ULTIMA",
@@ -6687,7 +6717,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9727cbf6325",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -6701,7 +6731,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9727cbf6325",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -6871,7 +6901,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9737c69890e",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -6885,7 +6915,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9737c69890e",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -7045,7 +7083,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM NEW PLUS",
 			"inGameID": 65
 		},
 		"difficulty": "ULTIMA",
@@ -7248,7 +7286,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9753099a4c1",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -7408,7 +7446,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM SUN PLUS",
 			"inGameID": 67
 		},
 		"difficulty": "ULTIMA",
@@ -7763,7 +7801,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b978306a8232",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -7777,7 +7815,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b978306a8232",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -7947,7 +7985,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b97963bcd6a6",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -8107,7 +8145,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM NEW",
 			"inGameID": 71
 		},
 		"difficulty": "ULTIMA",
@@ -8155,7 +8193,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b97a8bf948eb",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -8325,7 +8363,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b97ba822392b",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -8339,7 +8377,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b97ba822392b",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -8353,7 +8391,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b97ba822392b",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -8367,7 +8405,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b97ba822392b",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -8381,7 +8419,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b97ba822392b",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -8395,7 +8433,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b97c506e2e75",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -8555,7 +8593,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM PLUS",
+			"displayVersion": "CHUNITHM X-VERSE",
 			"inGameID": 73
 		},
 		"difficulty": "ULTIMA",
@@ -8732,7 +8770,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM NEW PLUS",
 			"inGameID": 74
 		},
 		"difficulty": "ULTIMA",
@@ -8779,7 +8817,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b97ef0753785",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -8939,7 +8977,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM LUMINOUS",
 			"inGameID": 75
 		},
 		"difficulty": "ULTIMA",
@@ -9125,7 +9163,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM X-VERSE",
 			"inGameID": 76
 		},
 		"difficulty": "ULTIMA",
@@ -9560,7 +9598,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b982093a5e41",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -9574,7 +9612,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b982093a5e41",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -10046,7 +10084,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM SUN",
 			"inGameID": 83
 		},
 		"difficulty": "ULTIMA",
@@ -10276,7 +10314,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9883501d783",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -10474,7 +10512,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b98be2f7e09e",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -10488,7 +10526,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b98be2f7e09e",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -10658,7 +10696,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b98be2f7e09e",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -10818,7 +10856,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM NEW",
 			"inGameID": 89
 		},
 		"difficulty": "ULTIMA",
@@ -11022,7 +11060,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b98db693c99d",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -11806,7 +11844,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM SUN",
 			"inGameID": 95
 		},
 		"difficulty": "ULTIMA",
@@ -11852,7 +11890,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b992c309092d",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -11866,7 +11904,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b992c309092d",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -12036,7 +12074,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b993adbb7cbc",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -12352,7 +12398,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM NEW PLUS",
 			"inGameID": 98
 		},
 		"difficulty": "ULTIMA",
@@ -12545,7 +12591,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM LUMINOUS PLUS",
 			"inGameID": 99
 		},
 		"difficulty": "ULTIMA",
@@ -12582,7 +12628,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b996f3abe716",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -12742,7 +12788,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM LUMINOUS PLUS",
 			"inGameID": 100
 		},
 		"difficulty": "ULTIMA",
@@ -13247,7 +13293,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b99a31c57898",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -13417,7 +13463,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b99bd45c4563",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -13889,7 +13935,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM NEW",
 			"inGameID": 107
 		},
 		"difficulty": "ULTIMA",
@@ -13937,7 +13983,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b99e381f98ba",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -13951,7 +13997,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b99f6307bd0b",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -14121,7 +14167,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b99f6307bd0b",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -14135,7 +14181,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b99f6307bd0b",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -14663,7 +14709,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM LUMINOUS",
 			"inGameID": 113
 		},
 		"difficulty": "ULTIMA",
@@ -15015,7 +15061,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9a6670a413a",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -15029,7 +15075,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9a6670a413a",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -15291,7 +15337,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9a83b00e15a",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -15451,7 +15505,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM NEW PLUS",
 			"inGameID": 118
 		},
 		"difficulty": "ULTIMA",
@@ -15654,7 +15708,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9aa8b50f711",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -17210,7 +17264,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM SUN PLUS",
 			"inGameID": 132
 		},
 		"difficulty": "ULTIMA",
@@ -17538,7 +17592,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9b9459840e5",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -18020,7 +18074,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9bc1e8551a3",
-		"versions": ["xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -18336,7 +18390,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM NEW PLUS",
 			"inGameID": 140
 		},
 		"difficulty": "ULTIMA",
@@ -18539,7 +18593,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9c01b46c6e7",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -18709,7 +18763,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9c17b507530",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -18869,7 +18923,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM NEW PLUS",
 			"inGameID": 143
 		},
 		"difficulty": "ULTIMA",
@@ -19072,7 +19126,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9c34abe74ea",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -19086,7 +19140,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9c34abe74ea",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -19100,7 +19154,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9c34abe74ea",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -19114,7 +19168,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9c34abe74ea",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -19274,7 +19328,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM X-VERSE",
 			"inGameID": 145
 		},
 		"difficulty": "ULTIMA",
@@ -19305,7 +19359,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9c407862e76",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -19631,7 +19685,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9c62e2e0c36",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -19791,7 +19845,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM NEW",
 			"inGameID": 148
 		},
 		"difficulty": "ULTIMA",
@@ -19839,7 +19893,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9c7c8b3b591",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -19853,7 +19907,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9c7c8b3b591",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -20169,7 +20223,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM LUMINOUS",
 			"inGameID": 150
 		},
 		"difficulty": "ULTIMA",
@@ -20209,7 +20263,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9ca42896377",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -20525,7 +20579,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM NEW PLUS",
 			"inGameID": 152
 		},
 		"difficulty": "ULTIMA",
@@ -20756,7 +20810,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9cea5a779df",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -20890,7 +20944,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9cfbcfe26f1",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -21060,7 +21114,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9d0b9615c21",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -21376,7 +21430,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM SUN",
 			"inGameID": 159
 		},
 		"difficulty": "ULTIMA",
@@ -21421,7 +21475,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9d2bcb58131",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -21435,7 +21489,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9d2bcb58131",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -21907,7 +21969,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM NEW PLUS",
 			"inGameID": 163
 		},
 		"difficulty": "ULTIMA",
@@ -21954,7 +22016,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9d6d05498b0",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -21968,7 +22038,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9d6d05498b0",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -22138,7 +22208,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9d819c13649",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -22152,7 +22222,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9d819c13649",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -22166,7 +22236,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9d9ffae10ef",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -22326,7 +22396,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM SUN",
 			"inGameID": 166
 		},
 		"difficulty": "ULTIMA",
@@ -22372,7 +22442,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9d9ffae10ef",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -22386,7 +22456,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9d9ffae10ef",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -22546,7 +22616,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM LUMINOUS",
 			"inGameID": 167
 		},
 		"difficulty": "ULTIMA",
@@ -22732,7 +22802,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM LUMINOUS",
 			"inGameID": 168
 		},
 		"difficulty": "ULTIMA",
@@ -22918,7 +22988,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM SUN",
 			"inGameID": 169
 		},
 		"difficulty": "ULTIMA",
@@ -22964,7 +23034,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9dcfb46fbe1",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -22978,7 +23048,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9dcfb46fbe1",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -22992,7 +23062,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9ddc68ec8b5",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -23162,7 +23232,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9ddc68ec8b5",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -23478,7 +23548,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM PLUS",
+			"displayVersion": "CHUNITHM LUMINOUS",
 			"inGameID": 173
 		},
 		"difficulty": "ULTIMA",
@@ -24068,7 +24138,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM VERSE",
 			"inGameID": 179
 		},
 		"difficulty": "ULTIMA",
@@ -25096,7 +25166,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM AIR",
+			"displayVersion": "CHUNITHM NEW PLUS",
 			"inGameID": 187
 		},
 		"difficulty": "ULTIMA",
@@ -25299,7 +25369,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9f0d6e4597a",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -25469,7 +25539,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9f1d749e9a1",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -26391,7 +26461,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9f771fcf191",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -26405,7 +26483,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9f771fcf191",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -26575,7 +26653,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9f87eb34def",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -27057,7 +27135,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9fc4629cc74",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -27383,7 +27461,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0b9fd86abf491",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -27543,7 +27621,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM NEW",
 			"inGameID": 203
 		},
 		"difficulty": "ULTIMA",
@@ -27737,7 +27815,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM",
+			"displayVersion": "CHUNITHM NEW",
 			"inGameID": 204
 		},
 		"difficulty": "ULTIMA",
@@ -27941,7 +28019,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba007019c066",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -28139,7 +28217,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba0204d4af43",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -28153,7 +28231,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba0204d4af43",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -28323,7 +28401,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba036b6f8e28",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -28429,7 +28507,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba04db97232c",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -28589,7 +28667,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM PLUS",
+			"displayVersion": "CHUNITHM LUMINOUS PLUS",
 			"inGameID": 210
 		},
 		"difficulty": "ULTIMA",
@@ -28938,7 +29016,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba0757834e74",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -29200,7 +29278,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba09e0d7eb57",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -29874,7 +29952,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba0ec8b8a834",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -29888,7 +29966,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba0ec8b8a834",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -31452,7 +31530,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM AIR",
+			"displayVersion": "CHUNITHM X-VERSE",
 			"inGameID": 230
 		},
 		"difficulty": "ULTIMA",
@@ -31717,7 +31795,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM PLUS",
+			"displayVersion": "CHUNITHM NEW",
 			"inGameID": 232
 		},
 		"difficulty": "ULTIMA",
@@ -31764,7 +31842,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba1bbb9b4c5d",
-		"versions": ["xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -31778,7 +31856,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba1bbb9b4c5d",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -31938,7 +32016,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM PLUS",
+			"displayVersion": "CHUNITHM NEW",
 			"inGameID": 233
 		},
 		"difficulty": "ULTIMA",
@@ -31986,7 +32064,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba1c9ded1f04",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -32156,7 +32234,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba1d7085c2e2",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -32720,7 +32798,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM PLUS",
+			"displayVersion": "CHUNITHM SUN PLUS",
 			"inGameID": 244
 		},
 		"difficulty": "ULTIMA",
@@ -32757,7 +32835,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba27d88dc4db",
-		"versions": ["xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -32927,7 +33005,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba28292b4b72",
-		"versions": ["xversex", "xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse-omni", "xversex", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -33345,7 +33423,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba2b51d14b96",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -34295,7 +34373,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba31a796ff67",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -34869,7 +34947,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba36d49b0726",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -35351,7 +35437,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba382409ffb9",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -35365,7 +35451,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba39dd4d8c2d",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -36003,7 +36089,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba3c33160697",
-		"versions": ["xversex", "xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse-omni", "xversex", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -39463,7 +39549,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM AIR",
+			"displayVersion": "CHUNITHM X-VERSE",
 			"inGameID": 288
 		},
 		"difficulty": "ULTIMA",
@@ -39650,7 +39736,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba54dc9da454",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -39820,7 +39914,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba557ba3491f",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -40852,7 +40946,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM AIR",
+			"displayVersion": "CHUNITHM VERSE",
 			"inGameID": 297
 		},
 		"difficulty": "ULTIMA",
@@ -41032,7 +41126,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM AIR",
+			"displayVersion": "CHUNITHM LUMINOUS",
 			"inGameID": 298
 		},
 		"difficulty": "ULTIMA",
@@ -42246,7 +42340,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM AIR",
+			"displayVersion": "CHUNITHM NEW",
 			"inGameID": 306
 		},
 		"difficulty": "ULTIMA",
@@ -42294,7 +42388,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba65108d65b1",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -42464,7 +42558,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba666fba6148",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -43098,7 +43192,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba6c6c9b67bd",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -43602,7 +43696,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM AIR",
+			"displayVersion": "CHUNITHM SUN",
 			"inGameID": 317
 		},
 		"difficulty": "ULTIMA",
@@ -43648,7 +43742,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba7066b5a1e3",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -43808,7 +43902,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM AIR",
+			"displayVersion": "CHUNITHM X-VERSE-X",
 			"inGameID": 318
 		},
 		"difficulty": "ULTIMA",
@@ -44290,7 +44384,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM AIR",
+			"displayVersion": "CHUNITHM VERSE",
 			"inGameID": 321
 		},
 		"difficulty": "ULTIMA",
@@ -44480,7 +44574,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba758825306e",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -44494,7 +44588,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba758825306e",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -44654,7 +44756,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM AIR",
+			"displayVersion": "CHUNITHM SUN PLUS",
 			"inGameID": 323
 		},
 		"difficulty": "ULTIMA",
@@ -45469,7 +45571,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba7b020c7c9c",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -45785,7 +45887,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM AIR",
+			"displayVersion": "CHUNITHM SUN PLUS",
 			"inGameID": 330
 		},
 		"difficulty": "ULTIMA",
@@ -45974,7 +46076,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM AIR",
+			"displayVersion": "CHUNITHM SUN PLUS",
 			"inGameID": 331
 		},
 		"difficulty": "ULTIMA",
@@ -46163,7 +46265,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM AIR",
+			"displayVersion": "CHUNITHM VERSE",
 			"inGameID": 332
 		},
 		"difficulty": "ULTIMA",
@@ -46343,7 +46445,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM CRYSTAL PLUS",
+			"displayVersion": "CHUNITHM LUMINOUS PLUS",
 			"inGameID": 333
 		},
 		"difficulty": "ULTIMA",
@@ -46380,7 +46482,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba80934d0661",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -47330,7 +47440,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba8682b3fafe",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -48421,7 +48531,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba91611e511f",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -48527,7 +48637,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba92dd33ed1f",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -48633,7 +48743,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0ba9309cc94f7",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -51271,7 +51381,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0baaa60490c10",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -51909,7 +52027,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0baaf555edece",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -51923,7 +52041,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0baaf555edece",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -52707,7 +52825,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM AIR PLUS",
+			"displayVersion": "CHUNITHM NEW",
 			"inGameID": 385
 		},
 		"difficulty": "ULTIMA",
@@ -52911,7 +53029,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bab58a3c7f73",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -53705,7 +53823,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0babce7ec502c",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -53719,7 +53837,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0babce7ec502c",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -53889,7 +54007,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0babdcfab5b2b",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -54215,7 +54333,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0babf6918cd56",
-		"versions": ["xversex", "xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse-omni", "xversex", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -54687,7 +54805,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM AIR PLUS",
+			"displayVersion": "CHUNITHM X-VERSE",
 			"inGameID": 399
 		},
 		"difficulty": "ULTIMA",
@@ -54718,7 +54836,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bac5c8bc35c5",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -55200,7 +55318,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bac82a958686",
-		"versions": ["xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -56655,6 +56773,7 @@
 		"levelNum": 13.7,
 		"songID": "S19d35e0bad49808e7c1",
 		"versions": [
+			"new",
 			"newplus",
 			"sun-omni",
 			"sunplus-omni",
@@ -57201,7 +57320,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0badb93a25f24",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -57707,7 +57826,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0badfe6439269",
-		"versions": ["xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -58803,7 +58922,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM STAR",
+			"displayVersion": "CHUNITHM VERSE",
 			"inGameID": 435
 		},
 		"difficulty": "ULTIMA",
@@ -59295,7 +59414,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM STAR",
+			"displayVersion": "CHUNITHM X-VERSE",
 			"inGameID": 438
 		},
 		"difficulty": "ULTIMA",
@@ -59794,7 +59913,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0baece52d3ad2",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": ["xverse", "xverse-omni", "xversex", "xversex-intl", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -59964,7 +60083,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0baedb0200c8d",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -59978,7 +60097,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0baedb0200c8d",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -61166,7 +61285,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM STAR",
+			"displayVersion": "CHUNITHM LUMINOUS PLUS",
 			"inGameID": 455
 		},
 		"difficulty": "ULTIMA",
@@ -61671,7 +61790,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bafdbced2585",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -62143,7 +62262,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM STAR PLUS",
+			"displayVersion": "CHUNITHM NEW PLUS",
 			"inGameID": 462
 		},
 		"difficulty": "ULTIMA",
@@ -62502,7 +62621,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb04c3b39359",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -62672,7 +62791,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb04c3b39359",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -62998,7 +63117,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb0698730808",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -64480,7 +64599,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb1262425685",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -66054,7 +66173,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb1de91fc219",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -66068,7 +66187,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb1de91fc219",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -66954,7 +67073,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb23c565b1d4",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -67124,7 +67243,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb251d19f5af",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -67294,7 +67413,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb251d19f5af",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -68464,7 +68583,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb2db5e52d92",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -68478,7 +68597,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb2db5e52d92",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -68492,7 +68611,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb2db5e52d92",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -69530,7 +69649,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb3748d86afb",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -70040,7 +70159,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb3f5614d0b7",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -70182,7 +70309,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb410f13ac0c",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -71604,7 +71731,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb4dafd449a4",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -71958,7 +72093,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb515cbe752f",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -73176,7 +73311,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb5bb6d1d4b6",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -74126,7 +74261,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb6137399489",
-		"versions": ["xversex", "xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse-omni", "xversex", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -74296,7 +74431,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb62d9d632ec",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -74438,7 +74581,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb630cbb2563",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -74708,7 +74851,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb656af782b5",
-		"versions": ["xversex", "xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse", "xverse-omni", "xversex", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -75190,7 +75333,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb6932b8d2c8",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -75204,7 +75347,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb6932b8d2c8",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -75842,7 +75985,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb6fc05b54ca",
-		"versions": ["xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -76314,7 +76457,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM STAR PLUS",
+			"displayVersion": "CHUNITHM SUN PLUS",
 			"inGameID": 574
 		},
 		"difficulty": "ULTIMA",
@@ -79012,7 +79155,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb86aef27d50",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -80494,7 +80637,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb94b78a472e",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -80692,7 +80835,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb968cddfd08",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -81514,7 +81657,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb9cf44e6acf",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -81840,7 +81983,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb9e4eaee9e1",
-		"versions": ["xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -81946,7 +82089,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bb9f13ac9af4",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -82328,7 +82471,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bba3a9d3c5d5",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -82498,7 +82641,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bba4c5678152",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -82512,7 +82655,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bba4c5678152",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -82998,7 +83149,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM STAR PLUS",
+			"displayVersion": "CHUNITHM LUMINOUS PLUS",
 			"inGameID": 628
 		},
 		"difficulty": "ULTIMA",
@@ -83035,7 +83186,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bba7671a3ba0",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -83361,7 +83512,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bbaa9b3f1332",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -84155,7 +84306,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bbb0f4af2aa4",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -84169,7 +84320,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bbb0f4af2aa4",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -84523,7 +84674,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bbb39af6d202",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -88121,7 +88272,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bbd2f2e7d790",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -89009,7 +89160,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM AMAZON",
+			"displayVersion": "CHUNITHM X-VERSE-X",
 			"inGameID": 678
 		},
 		"difficulty": "ULTIMA",
@@ -90373,7 +90524,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bbe51aa41cd3",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -91635,7 +91786,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bbec709ef08d",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -92273,7 +92432,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bbf0bfb8311f",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -93379,7 +93538,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bbf7cd672050",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -94631,7 +94790,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM AMAZON",
+			"displayVersion": "CHUNITHM LUMINOUS PLUS",
 			"inGameID": 720
 		},
 		"difficulty": "ULTIMA",
@@ -94668,7 +94827,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bc033f05cf4e",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -95846,7 +96013,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bc0d0fc35859",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -96328,7 +96495,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bc110f43a21b",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -98186,7 +98353,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bc1c8c0353a4",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -98356,7 +98523,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bc1d6c8a78ee",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -101942,7 +102117,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bc38d560320a",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -102768,7 +102943,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bc3e83a6dea0",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -105622,7 +105797,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bc5230be88d6",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -105792,7 +105967,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bc55433e9aa7",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -106420,7 +106603,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM AMAZON PLUS",
+			"displayVersion": "CHUNITHM LUMINOUS",
 			"inGameID": 807
 		},
 		"difficulty": "ULTIMA",
@@ -106460,7 +106643,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bc5a15ae802c",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -107800,7 +107983,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM CRYSTAL",
+			"displayVersion": "CHUNITHM SUN",
 			"inGameID": 818
 		},
 		"difficulty": "ULTIMA",
@@ -107990,7 +108173,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM CRYSTAL",
+			"displayVersion": "CHUNITHM SUN",
 			"inGameID": 819
 		},
 		"difficulty": "ULTIMA",
@@ -109284,7 +109467,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bc7082501b6c",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -109610,7 +109801,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bc72eef17ca6",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -110404,7 +110603,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bc76d98ee5a5",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -111188,7 +111395,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM CRYSTAL",
+			"displayVersion": "CHUNITHM NEW PLUS",
 			"inGameID": 840
 		},
 		"difficulty": "ULTIMA",
@@ -113051,7 +113258,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bc88e664cf56",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -113701,7 +113908,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bc8d4913b5f8",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -115079,7 +115286,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bc9811327fa0",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -116789,7 +116996,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bca330b49f06",
-		"versions": ["xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -117115,7 +117322,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bca584fcaf98",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -117797,7 +118004,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bcaa379a43ba",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -117957,7 +118164,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM CRYSTAL",
+			"displayVersion": "CHUNITHM SUN",
 			"inGameID": 887
 		},
 		"difficulty": "ULTIMA",
@@ -118287,7 +118494,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bcad85dc12ae",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -118557,7 +118772,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bcafa9a6e769",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -119295,7 +119510,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bcb46ba2949b",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -119621,7 +119836,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bcb73ad92ecf",
-		"versions": ["xversex", "xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse-omni", "xversex", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -119791,7 +120006,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bcb895f53aa3",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -120273,7 +120488,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bcbc28e1286e",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -120495,7 +120710,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bcbf1dd2b18f",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -121237,7 +121452,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bcc40589d932",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -125059,7 +125274,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bcde95091107",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -128713,7 +128928,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bcf7a99218cf",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -129559,7 +129774,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bcfd0b4b8f3e",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -131549,7 +131764,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bd0ad15632e8",
-		"versions": ["xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -135231,7 +135446,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bd26f088e1f8",
-		"versions": ["xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -135557,7 +135772,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bd2972ef77f5",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -136195,7 +136410,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bd2c09234c59",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -138737,7 +138960,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bd3d90ba3923",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -139471,7 +139694,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bd435f44f5f5",
-		"versions": ["xversex", "xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse-omni", "xversex", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -139641,7 +139864,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bd440f934e9f",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -141079,7 +141302,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bd51f2b16524",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -142287,7 +142510,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM PARADISE LOST",
+			"displayVersion": "CHUNITHM X-VERSE",
 			"inGameID": 1061
 		},
 		"difficulty": "ULTIMA",
@@ -144966,7 +145189,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bd6a8ab50975",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -147136,7 +147359,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bd78e0a837c8",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -147830,7 +148053,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bd7e6d62ca5b",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -148000,7 +148223,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0bd7fcd0f7837",
-		"versions": ["xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -148316,7 +148539,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM PARADISE LOST",
+			"displayVersion": "CHUNITHM X-VERSE",
 			"inGameID": 1101
 		},
 		"difficulty": "ULTIMA",
@@ -151937,7 +152160,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM NEW",
+			"displayVersion": "CHUNITHM VERSE",
 			"inGameID": 2024
 		},
 		"difficulty": "ULTIMA",
@@ -153611,7 +153834,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c127c7e441ce",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -154201,7 +154424,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c12baa7ddae0",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -154667,7 +154890,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c12ef576fbe9",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -155289,7 +155512,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c132a4ad8732",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -157735,7 +157958,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c1437abb73ba",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -158053,7 +158284,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c145a469d3d1",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -159667,7 +159898,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c1503dbc58f6",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -161617,7 +161848,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c15dcd356ad1",
-		"versions": ["xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -162087,7 +162318,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c1606ce831a0",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -163377,7 +163616,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c16922994c25",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -168475,7 +168722,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c18d981e65f3",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": ["xverse", "xverse-omni", "xversex", "xversex-intl", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -169137,7 +169384,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c192c65454ed",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -169727,7 +169974,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c1969ab02fea",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -169889,7 +170136,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c197310880a0",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -172015,7 +172270,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c1a68d56b916",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -173819,7 +174082,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c1b3c5aa9bac",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -173833,7 +174104,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c1b46c227daa",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -174263,7 +174534,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c1b67f0994cf",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -175165,7 +175444,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c1bcf5f85d64",
-		"versions": ["xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -175623,7 +175902,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c1bf68ad7977",
-		"versions": ["xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -178697,7 +178976,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c1d4c065e857",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -183075,7 +183362,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c1f3b407b549",
-		"versions": ["xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -185681,7 +185968,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c20732befce8",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -186803,7 +187090,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c20f441c324d",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -186817,7 +187112,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c20f441c324d",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -186831,7 +187134,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c20f441c324d",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -186845,7 +187156,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c20f441c324d",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -186859,7 +187178,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c20f441c324d",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -186873,7 +187200,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c20f441c324d",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -188327,7 +188662,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c2195a7fc807",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -189237,7 +189580,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c221df7a1463",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -194399,7 +194750,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c246cdd974db",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -195853,7 +196204,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c2511b11d428",
-		"versions": ["xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -198735,7 +199086,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c26697e14d59",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -199181,7 +199532,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c26abcf94bdf",
-		"versions": ["xversex", "xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse-omni", "xversex", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -204835,7 +205186,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c29d2d3c863c",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -208039,7 +208390,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c2b7e84321f3",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -209973,7 +210332,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c2c79873938c",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -212727,7 +213094,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c2e255390933",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": ["xverse", "xverse-omni", "xversex", "xversex-intl", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -214389,7 +214756,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c2f093b93866",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": ["xverse", "xverse-omni", "xversex", "xversex-intl", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -214643,7 +215010,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c2f2c7e780c6",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -216217,7 +216592,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c2ffb13e3820",
-		"versions": ["xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -216231,7 +216606,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c2ffb13e3820",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -216245,7 +216628,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c2ffb13e3820",
-		"versions": ["xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -219691,7 +220074,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c31e6e08bc4e",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": ["xverse", "xverse-omni", "xversex", "xversex-intl", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -221865,7 +222248,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c332cafa4e84",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": ["xversex", "xversex-intl", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -223919,7 +224302,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c344b5153e9e",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -225109,7 +225500,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c34e74bed618",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -225221,7 +225620,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM LUMINOUS PLUS",
+			"displayVersion": "CHUNITHM X-VERSE",
 			"inGameID": 2586
 		},
 		"difficulty": "ULTIMA",
@@ -227204,7 +227603,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c3671d9fa10e",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -231734,7 +232141,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c399df64ee01",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -232488,7 +232903,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c3a7c31b40a1",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": ["xverse", "xverse-omni", "xversex", "xversex-intl", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -236601,7 +237016,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c3d3f8fb2f59",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": ["xversex", "xversex-intl", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -238269,7 +238684,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c3ec142b1370",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -239209,7 +239632,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19d35e0c3f70eaa7e42",
-		"versions": ["xversex", "xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse", "xverse-omni", "xversex", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -242413,7 +242836,7 @@
 	},
 	{
 		"data": {
-			"displayVersion": "CHUNITHM VERSE",
+			"displayVersion": "CHUNITHM X-VERSE-X",
 			"inGameID": 2806
 		},
 		"difficulty": "ULTIMA",
@@ -249404,7 +249827,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19e107c922b5363735b",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -249418,7 +249849,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19e107c922d3407b63d",
-		"versions": ["xversex", "xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse", "xverse-omni", "xversex", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -249432,7 +249863,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19e107c922f08325abf",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -249446,7 +249885,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19e107c92301c7d11a5",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -249460,7 +249907,15 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19e107c92307fa08e38",
-		"versions": ["xversex", "xversex-omni", "xversex-intl"]
+		"versions": [
+			"verse",
+			"verse-omni",
+			"xverse",
+			"xverse-omni",
+			"xversex",
+			"xversex-intl",
+			"xversex-omni"
+		]
 	},
 	{
 		"data": {
@@ -253044,7 +253499,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19e107c92617125d589",
-		"versions": ["xversex", "xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse-omni", "xversex", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -253058,7 +253513,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19e107c9261f6b20b73",
-		"versions": ["xversex", "xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse-omni", "xversex", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -253072,7 +253527,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19e107c926482456511",
-		"versions": ["xversex", "xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse-omni", "xversex", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -253086,7 +253541,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19e107c926703c9d5ea",
-		"versions": ["xversex", "xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse-omni", "xversex", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -253100,7 +253555,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19e107c9268900ed302",
-		"versions": ["xversex", "xversex-omni"]
+		"versions": ["verse", "verse-omni", "xverse-omni", "xversex", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -254388,7 +254843,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19e10e7279d1cdb21d0",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -254402,7 +254857,7 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19e10e7279d6177f69f",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	},
 	{
 		"data": {
@@ -254416,6 +254871,6 @@
 		"level": "",
 		"levelNum": 0,
 		"songID": "S19e10e7279df9618de1",
-		"versions": ["xversex-omni"]
+		"versions": ["verse-omni", "xverse-omni", "xversex-omni"]
 	}
 ]

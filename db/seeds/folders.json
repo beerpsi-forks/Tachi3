@@ -12591,6 +12591,39 @@
 	},
 	{
 		"game": "chunithm",
+		"id": "F19e114b02f403109d69",
+		"inactive": false,
+		"legacyFolderID": "Ff8f5ec2b2aaee5946ce1ad4d9c0d85bf62bfa963a66b6494eebe834182f5e0eb",
+		"searchTerms": [],
+		"slug": "worlds-end-verse-omni",
+		"title": "WORLD'S END (VERSE Omnimix)",
+		"versionFilter": ["verse-omni"],
+		"where": "(chart.data->>'inGameID')::numeric >= 8000"
+	},
+	{
+		"game": "chunithm",
+		"id": "F19e114a3545dc610925",
+		"inactive": false,
+		"legacyFolderID": "Fa27f071f2f04136d4719f283ddf7bb3a716587f0d52807ba748237660d7121a1",
+		"searchTerms": [],
+		"slug": "worlds-end-verse",
+		"title": "WORLD'S END (VERSE)",
+		"versionFilter": ["verse"],
+		"where": "(chart.data->>'inGameID')::numeric >= 8000"
+	},
+	{
+		"game": "chunithm",
+		"id": "F19e114383ad7782914c",
+		"inactive": false,
+		"legacyFolderID": "F12ad787aff38d2eff1c509b2edd1fdfd903b5128b7a99657e030e8e275c720a8",
+		"searchTerms": [],
+		"slug": "worlds-end-xverse-omni",
+		"title": "WORLD'S END (X-VERSE Omnimix)",
+		"versionFilter": ["xverse-omni"],
+		"where": "(chart.data->>'inGameID')::numeric >= 8000"
+	},
+	{
+		"game": "chunithm",
 		"id": "F19e1132aed90416dbfc",
 		"inactive": false,
 		"legacyFolderID": "F14d53464ca145adf7896d2ef3da5c96236838b826cb6e88ff251de2ba5938ceb",
@@ -12620,6 +12653,17 @@
 		"slug": "worlds-end-xversex",
 		"title": "WORLD'S END (X-VERSE-X)",
 		"versionFilter": ["xversex"],
+		"where": "(chart.data->>'inGameID')::numeric >= 8000"
+	},
+	{
+		"game": "chunithm",
+		"id": "F19e114180cc71d17cd8",
+		"inactive": false,
+		"legacyFolderID": "F692942a465068bf9aaa14030a9cb6656220920ce4ef6e2471680a5435670cd32",
+		"searchTerms": [],
+		"slug": "worlds-end-xverse",
+		"title": "WORLD'S END (X-VERSE)",
+		"versionFilter": ["xverse"],
 		"where": "(chart.data->>'inGameID')::numeric >= 8000"
 	},
 	{

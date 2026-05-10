@@ -13,7 +13,7 @@ import {
 import { log } from "../../log";
 import { CreateChartID, CreateSongID, ReadCollection, WriteCollection } from "../../util";
 
-const OMNIMIX_OPTION_NAMES = ["AOMN", "AOLD", "AKON"];
+const OMNIMIX_OPTION_NAMES = ["AOMN", "AOLD", "AKON", "A300"];
 const DISPLAY_VERSIONS = [
 	"CHUNITHM",
 	"CHUNITHM PLUS",
@@ -37,10 +37,24 @@ const DISPLAY_VERSIONS = [
 	"CHUNITHM X-VERSE",
 	"CHUNITHM X-VERSE-X",
 ];
-const VERSIONS = ["paradiselost", "sun", "sunplus", "luminous", "luminousplus", "verse", "xverse", "xversex"];
+const VERSIONS = [
+	"paradiselost",
+	"sun",
+	"sunplus",
+	"luminous",
+	"luminousplus",
+	"verse",
+	"xverse",
+	"xversex",
+];
 
 // WE charts that need extra disambiguators. Mapping of inGameID to the disambiguator.
 const DIFFICULTY_EXTRAS = new Map<integer, string>([
+	// Genesis type-?
+	[8190, "A"],
+	[8191, "B"],
+	[8192, "C"],
+	// Random
 	[8244, "LASTMORN"],
 	[8245, "Implexrough"],
 	[8246, "Shannon's Theorem"],
@@ -145,8 +159,10 @@ if (!tachiVersions.includes(options.version)) {
 const isOmnimixVersion = /-omni$/u.test(options.version);
 const isLatestVersion = VERSIONS.indexOf(baseVersion) === VERSIONS.length - 1;
 
-const existingSongDocs: Array<SEEDS_SongDocument<"chunithm">> = ReadCollection("songs-chunithm.json");
-const existingChartDocs: Array<SEEDS_ChartDocument<"chunithm">> = ReadCollection("charts-chunithm.json");
+const existingSongDocs: Array<SEEDS_SongDocument<"chunithm">> =
+	ReadCollection("songs-chunithm.json");
+const existingChartDocs: Array<SEEDS_ChartDocument<"chunithm">> =
+	ReadCollection("charts-chunithm.json");
 
 const songMap = new Map(existingSongDocs.map((s) => [s.id, s]));
 const songTitleArtistMap = new Map(existingSongDocs.map((s) => [`${s.title} - ${s.artist}`, s]));
@@ -255,7 +271,9 @@ for (const optionsDir of options.input) {
 
 				// fallback 1: lookup by title - artist
 				if (tachiSongID === undefined) {
-					const tachiSong = songTitleArtistMap.get(`${musicData.name.str} - ${musicData.artistName.str}`);
+					const tachiSong = songTitleArtistMap.get(
+						`${musicData.name.str} - ${musicData.artistName.str}`,
+					);
 
 					tachiSongID = tachiSong?.id;
 					isChildWE = tachiSongID !== undefined;
@@ -296,7 +314,9 @@ for (const optionsDir of options.input) {
 
 			// New song?
 			if (tachiSongID === undefined) {
-				const existingTitle = songTitleArtistMap.get(`${musicData.name.str} - ${musicData.artistName.str}`);
+				const existingTitle = songTitleArtistMap.get(
+					`${musicData.name.str} - ${musicData.artistName.str}`,
+				);
 
 				if (existingTitle) {
 					log.warn(
@@ -384,7 +404,9 @@ for (const optionsDir of options.input) {
 						}
 
 						if (isLatestVersion && exists.data.displayVersion !== displayVersion) {
-							log.info(`Chart ${displayName} has had a displayVersion change: ${exists.data.displayVersion} -> ${displayVersion}`);
+							log.info(
+								`Chart ${displayName} has had a displayVersion change: ${exists.data.displayVersion} -> ${displayVersion}`,
+							);
 							exists.data.displayVersion = displayVersion;
 						}
 
@@ -462,7 +484,9 @@ for (const optionsDir of options.input) {
 						}
 
 						if (isLatestVersion && exists.data.displayVersion !== displayVersion) {
-							log.info(`Chart ${displayName} has had a displayVersion change: ${exists.data.displayVersion} -> ${displayVersion}`);
+							log.info(
+								`Chart ${displayName} has had a displayVersion change: ${exists.data.displayVersion} -> ${displayVersion}`,
+							);
 							exists.data.displayVersion = displayVersion;
 						}
 

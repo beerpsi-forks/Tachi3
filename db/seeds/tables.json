@@ -1627,7 +1627,8 @@
 			"expert-verse-omni",
 			"master-verse-omni",
 			"ultima-verse-omni",
-			"master-ultima-verse-omni"
+			"master-ultima-verse-omni",
+			"worlds-end-verse-omni"
 		],
 		"game": "chunithm",
 		"id": "T19d35f0d5938e2265fc",
@@ -1679,7 +1680,8 @@
 			"expert-verse",
 			"master-verse",
 			"ultima-verse",
-			"master-ultima-verse"
+			"master-ultima-verse",
+			"worlds-end-verse"
 		],
 		"game": "chunithm",
 		"id": "T19d35f0d593d4cd21e7",
@@ -1783,7 +1785,8 @@
 			"expert-xverse-omni",
 			"master-xverse-omni",
 			"ultima-xverse-omni",
-			"master-ultima-xverse-omni"
+			"master-ultima-xverse-omni",
+			"worlds-end-xverse-omni"
 		],
 		"game": "chunithm",
 		"id": "T19d35f0d593120dd85e",
@@ -1997,7 +2000,8 @@
 			"expert-xverse",
 			"master-xverse",
 			"ultima-xverse",
-			"master-ultima-xverse"
+			"master-ultima-xverse",
+			"worlds-end-xverse"
 		],
 		"game": "chunithm",
 		"id": "T19d35f0d59392b4398d",
