@@ -714,7 +714,7 @@ export const BMSGazerChart: ChartDocument<"bms-7k"> = {
 export const CHUNITHMBBKKSong: SongDocument<"chunithm"> = {
 	altTitles: [],
 	artist: "nora2r",
-	data: {		
+	data: {
 		duration: 128.541,
 		genre: "VARIETY",
 	},
@@ -1567,6 +1567,33 @@ export const TestingChunithmChartConverter: ChartDocument<"chunithm"> = {
 	levelNum: 12,
 	song: TestingChunithmSongConverter,
 	versions: ["paradiselost", "sun", "sun-omni", "sunplus-omni", "luminous-omni"],
+};
+
+export const TestingChunithmWESongConverter: SongDocument<"chunithm"> = {
+	altTitles: [],
+	artist: "from PACA PACA PASSION Special",
+	data: {
+		duration: 135.275,
+		genre: "VARIETY",
+	},
+	id: "S19d35e0c127c7e441ce",
+	searchTerms: ["xl techno more dance"],
+	title: "XL TECHNO -More Dance Remix-",
+};
+
+export const TestingChunithmWEChartConverter: ChartDocument<"chunithm"> = {
+	game: "chunithm",
+	data: {
+		displayVersion: "CHUNITHM NEW PLUS",
+		inGameID: 8235,
+	},
+	difficulty: "割☆4",
+	chartID: "C19e10e7a402af3865b8",
+	isPrimary: true,
+	level: "",
+	levelNum: 0,
+	song: TestingChunithmWESongConverter,
+	versions: ["verse-omni", "xverse-omni", "xversex-omni"],
 };
 
 export const TestingMaimaiDXSongConverter: SongDocument<"maimaidx"> = {
