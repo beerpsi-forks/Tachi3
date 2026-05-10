@@ -44,16 +44,18 @@ const CHART_CHECKS: { [G in GameGroup]?: Array<Test<ChartDocument<GamesForGroup[
 	],
 	chunithm: [
 		test("Level should not be 0", (c) => c.level !== "0"),
-		test("LevelNum should be a number greater than 0", (c) => c.levelNum > 0),
+		test("LevelNum should be a number greater than 0", (c) => c.data.inGameID >= 8000 || c.levelNum > 0),
 		test("Level and LevelNum should align (X+ should be X.5 or higher)", (c) => {
+			if (c.data.inGameID >= 8000) {
+				return true;
+			}
+			
 			if (c.level.endsWith("+")) {
 				return (c.levelNum * 10) % 10 >= 5;
 			} else {
 				return (c.levelNum * 10) % 10 < 5;
 			}
 		}),
-		test("inGameID should not exceed 8000, which is reserved for WORLD'S END charts.", (c) =>
-			c.data.inGameID === null || c.data.inGameID < 8000),
 	],
 	maimaidx: [
 		test("Level should not be 0", (c) => c.level !== "0"),
