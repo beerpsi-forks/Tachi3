@@ -714,8 +714,7 @@ export const BMSGazerChart: ChartDocument<"bms-7k"> = {
 export const CHUNITHMBBKKSong: SongDocument<"chunithm"> = {
 	altTitles: [],
 	artist: "nora2r",
-	data: {
-		displayVersion: "CHUNITHM",
+	data: {		
 		duration: 128.541,
 		genre: "VARIETY",
 	},
@@ -733,6 +732,7 @@ export const CHUNITHMBBKKChart: ChartDocument<"chunithm"> = {
 	level: "3",
 	data: {
 		inGameID: 3,
+		displayVersion: "CHUNITHM",
 	},
 	isPrimary: true,
 	versions: ["paradiselost"],
@@ -1546,7 +1546,6 @@ export const TestingChunithmSongConverter: SongDocument<"chunithm"> = {
 	altTitles: [],
 	artist: "分島花音「selector infected WIXOSS」",
 	data: {
-		displayVersion: "crystalplus",
 		genre: "POPS & ANIME",
 		duration: 120,
 	},
@@ -1559,6 +1558,7 @@ export const TestingChunithmChartConverter: ChartDocument<"chunithm"> = {
 	game: "chunithm",
 	chartID: "fbba26a6a223b1dd0bf8ef139cfee83114b91086",
 	data: {
+		displayVersion: "CHUNITHM CRYSTAL PLUS",
 		inGameID: 956,
 	},
 	difficulty: "MASTER",
