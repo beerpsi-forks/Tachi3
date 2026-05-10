@@ -22965,5 +22965,38 @@
 		"legacySongID": 2999,
 		"searchTerms": [],
 		"title": "Melodiniq"
+	},
+	{
+		"altTitles": [],
+		"artist": "月見英子（CV.井口裕香）「パリピ孔明」",
+		"data": {
+			"genre": "POPS & ANIME"
+		},
+		"id": "S19e10e7279d1cdb21d0",
+		"legacySongID": 8207,
+		"searchTerms": [],
+		"title": "パリピ孔明 ＣＭソング"
+	},
+	{
+		"altTitles": [],
+		"artist": "池頼広「Shadowverse」",
+		"data": {
+			"genre": "VARIETY"
+		},
+		"id": "S19e10e7279d6177f69f",
+		"legacySongID": 8150,
+		"searchTerms": [],
+		"title": "アリサのテーマ"
+	},
+	{
+		"altTitles": [],
+		"artist": "光吉猛修",
+		"data": {
+			"genre": "ORIGINAL"
+		},
+		"id": "S19e10e7279df9618de1",
+		"legacySongID": 8147,
+		"searchTerms": [],
+		"title": "怒槌～光吉猛修一部謎～"
 	}
 ]

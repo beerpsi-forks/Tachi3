@@ -274,6 +274,20 @@
 	{
 		"data": {
 			"displayVersion": "CHUNITHM PLUS",
+			"inGameID": 8022
+		},
+		"difficulty": "両☆2",
+		"id": "C19e10e7a401e6d2258c",
+		"isPrimary": true,
+		"legacyChartID": "91012731958a0d1b04790e2f98e84c632ccb33ff",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b935765ded25",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM PLUS",
 			"inGameID": 8020
 		},
 		"difficulty": "戻☆4",
@@ -372,6 +386,20 @@
 			"verse-omni",
 			"xverse-omni"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM PLUS",
+			"inGameID": 8005
+		},
+		"difficulty": "狂☆3",
+		"id": "C19e10e7a4011bb06a3d",
+		"isPrimary": true,
+		"legacyChartID": "7eba1747d74173edd7382caca6ab7387412acb0d",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b93798964872",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -569,6 +597,20 @@
 		"levelNum": 0,
 		"songID": "S19d35e0b938222962f2",
 		"versions": ["xversex"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR PLUS",
+			"inGameID": 8083
+		},
+		"difficulty": "速☆3",
+		"id": "C19e10e7a4013f3bba61",
+		"isPrimary": true,
+		"legacyChartID": "89e3e5ed8fc0f73fba5059597568c4e41ed258b6",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b938222962f2",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -893,6 +935,20 @@
 			"verse-omni",
 			"xverse-omni"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM PLUS",
+			"inGameID": 8027
+		},
+		"difficulty": "光☆2",
+		"id": "C19e10e7a4016019f569",
+		"isPrimary": true,
+		"legacyChartID": "43151e60ffe7e1bd4621e9e80754aecda1b11e6c",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b93cd9bb5207",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -1460,6 +1516,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8067
+		},
+		"difficulty": "戻☆4",
+		"id": "C19e10e7a4011c757b39",
+		"isPrimary": true,
+		"legacyChartID": "85618a39c501639da0d3aa200bcaa767dcdeb78b",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9453fd86574",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM AIR PLUS",
 			"inGameID": 20
 		},
@@ -1636,6 +1706,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM STAR",
+			"inGameID": 8103
+		},
+		"difficulty": "覚☆5",
+		"id": "C19e10e7a401f87201c9",
+		"isPrimary": true,
+		"legacyChartID": "c2d842b769cba4fd15d1f1b899ab9c7a0f87470a",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b946dcf338f3",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM",
 			"inGameID": 21
 		},
@@ -1798,6 +1882,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM PLUS",
+			"inGameID": 8008
+		},
+		"difficulty": "時☆3",
+		"id": "C19e10e7a4015e58aa41",
+		"isPrimary": true,
+		"legacyChartID": "7abe2836d12e1480a1f25a6555ef36d10143d50e",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b947d8ff5766",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM",
 			"inGameID": 23
 		},
@@ -1943,6 +2041,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8034
+		},
+		"difficulty": "避☆2",
+		"id": "C19e10e7a401f3f7d4c2",
+		"isPrimary": true,
+		"legacyChartID": "55c9271d068be8490f6ecad5bc3c1c7b990fb89c",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b94954074887",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -2497,6 +2609,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR PLUS",
+			"inGameID": 8086
+		},
+		"difficulty": "招☆2",
+		"id": "C19e10e7a401bda8826b",
+		"isPrimary": true,
+		"legacyChartID": "7c2d00ba3603961a560f241a5e7b674fe39e561d",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b95319d247f8",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -3429,6 +3555,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8036
+		},
+		"difficulty": "速☆2",
+		"id": "C19e10e7a4018462cfd3",
+		"isPrimary": true,
+		"legacyChartID": "debd0c465478e756d356cd999c991c8d4548fd09",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b95b83a63059",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM PLUS",
 			"inGameID": 42
 		},
@@ -3788,6 +3928,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM STAR",
+			"inGameID": 8100
+		},
+		"difficulty": "蔵☆4",
+		"id": "C19e10e7a401b309c965",
+		"isPrimary": true,
+		"legacyChartID": "41515822a2ab231d2fa3ca9aaec9de906a89b12a",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b95f9284094b",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM",
 			"inGameID": 46
 		},
@@ -3933,6 +4087,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8044
+		},
+		"difficulty": "避☆3",
+		"id": "C19e10e7a40195bf6dee",
+		"isPrimary": true,
+		"legacyChartID": "41abe4d49a36a0f2ac93603738bce6e72ba243ef",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b960f0148812",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -4450,6 +4618,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM CRYSTAL PLUS",
+			"inGameID": 8194
+		},
+		"difficulty": "割☆4",
+		"id": "C19e10e7a402b909eba5",
+		"isPrimary": true,
+		"legacyChartID": "deaf03ba4e960ada4c5749db131ceb5f092e622b",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b963c69dd34f",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM",
 			"inGameID": 51
 		},
@@ -4599,6 +4781,20 @@
 	{
 		"data": {
 			"displayVersion": "CHUNITHM PLUS",
+			"inGameID": 8003
+		},
+		"difficulty": "半☆3",
+		"id": "C19e10e7a401f2b47156",
+		"isPrimary": true,
+		"legacyChartID": "2b63577e5ff9b9daca1085f57b6c3db67f5474ca",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b965be569cce",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM PLUS",
 			"inGameID": 52
 		},
 		"difficulty": "ADVANCED",
@@ -4743,6 +4939,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8041
+		},
+		"difficulty": "止☆4",
+		"id": "C19e10e7a401a7ddc705",
+		"isPrimary": true,
+		"legacyChartID": "218fa083c66a666717d6d147ec088996a1ce0957",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b966a68cb649",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -4919,6 +5129,20 @@
 		"levelNum": 0,
 		"songID": "S19d35e0b967d5c2b801",
 		"versions": ["xversex"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM PLUS",
+			"inGameID": 8019
+		},
+		"difficulty": "弾☆2",
+		"id": "C19e10e7a401754d397f",
+		"isPrimary": true,
+		"legacyChartID": "8eba306b791e441f39efc1b1e5fba41ec78d6f3d",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b967d5c2b801",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -5274,6 +5498,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM PLUS",
+			"inGameID": 8031
+		},
+		"difficulty": "割☆2",
+		"id": "C19e10e7a401a6291f16",
+		"isPrimary": true,
+		"legacyChartID": "66bc92fa3f85afb586a9f28672aaa5bb120cb1d8",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b96be4a8d806",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM",
 			"inGameID": 58
 		},
@@ -5524,6 +5762,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM PLUS",
+			"inGameID": 8006
+		},
+		"difficulty": "割☆2",
+		"id": "C19e10e7a4018c949196",
+		"isPrimary": true,
+		"legacyChartID": "632b1aba97267b7592486d991260f773f708040f",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b96dd1384607",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM X-VERSE",
 			"inGameID": 8306
 		},
@@ -5535,6 +5787,20 @@
 		"levelNum": 0,
 		"songID": "S19d35e0b96dd1384607",
 		"versions": ["xversex"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM PLUS",
+			"inGameID": 8009
+		},
+		"difficulty": "割☆3",
+		"id": "C19e10e7a401afec7764",
+		"isPrimary": true,
+		"legacyChartID": "21933f53b9329772b4ea3f2878b3932fb65898d7",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b96dd1384607",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -5771,6 +6037,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8042
+		},
+		"difficulty": "光☆3",
+		"id": "C19e10e7a401476087d4",
+		"isPrimary": true,
+		"legacyChartID": "5cca0787c754a9cb6c476ce2caa24c6c0400cb67",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b96f4f686941",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -6105,6 +6385,34 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM CRYSTAL PLUS",
+			"inGameID": 8196
+		},
+		"difficulty": "改☆3",
+		"id": "C19e10e7a402def02100",
+		"isPrimary": true,
+		"legacyChartID": "d3650b821d13de799d34dd78431b379c4bc23f36",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9727cbf6325",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR PLUS",
+			"inGameID": 8072
+		},
+		"difficulty": "敷☆4",
+		"id": "C19e10e7a401b7ece2b9",
+		"isPrimary": true,
+		"legacyChartID": "ad94cb6919b179d22030cce12671901dd9a623c0",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9727cbf6325",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM",
 			"inGameID": 64
 		},
@@ -6250,6 +6558,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM PLUS",
+			"inGameID": 8010
+		},
+		"difficulty": "光☆2",
+		"id": "C19e10e7a401f3c7dbf7",
+		"isPrimary": true,
+		"legacyChartID": "2d1dd35ed21a5b798588669f9fb1bb7cc282cc76",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9737c69890e",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -6595,6 +6917,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8052
+		},
+		"difficulty": "光☆2",
+		"id": "C19e10e7a401ddc8952c",
+		"isPrimary": true,
+		"legacyChartID": "0d0452bffc873e8833f12e638bd8a91ddd3f16a9",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9753099a4c1",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -7073,6 +7409,34 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM PLUS",
+			"inGameID": 8015
+		},
+		"difficulty": "半☆3",
+		"id": "C19e10e7a401e121b510",
+		"isPrimary": true,
+		"legacyChartID": "ca239055a3d8a915550e8409e4d1a579facc0e98",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b978306a8232",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR PLUS",
+			"inGameID": 8079
+		},
+		"difficulty": "避☆4",
+		"id": "C19e10e7a401c16163e8",
+		"isPrimary": true,
+		"legacyChartID": "982be40799cd8971cb9b0f5ef2e67432319f04a3",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b978306a8232",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM",
 			"inGameID": 70
 		},
@@ -7218,6 +7582,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM STAR",
+			"inGameID": 8092
+		},
+		"difficulty": "光☆4",
+		"id": "C19e10e7a40122aa0ebf",
+		"isPrimary": true,
+		"legacyChartID": "858ab02d05ef08f8223757c8c4359b6ff54e60d2",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b97963bcd6a6",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -7405,6 +7783,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8050
+		},
+		"difficulty": "避☆3",
+		"id": "C19e10e7a401d310a07f",
+		"isPrimary": true,
+		"legacyChartID": "75018ee091a0953744fdca62e6470d49fa120054",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b97a8bf948eb",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM PLUS",
 			"inGameID": 72
 		},
@@ -7550,6 +7942,90 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM CRYSTAL PLUS",
+			"inGameID": 8190
+		},
+		"difficulty": "分☆3",
+		"id": "C19e10e7a402592a3120",
+		"isPrimary": true,
+		"legacyChartID": "9249cfd002fca115263c63689d2ff8864bd09b8a",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b97ba822392b",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM CRYSTAL PLUS",
+			"inGameID": 8191
+		},
+		"difficulty": "分☆3",
+		"id": "C19e10e7a4020088d89b",
+		"isPrimary": true,
+		"legacyChartID": "c816a8006c01dffc99ab8a74dad0dc7a181f6854",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b97ba822392b",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM CRYSTAL PLUS",
+			"inGameID": 8192
+		},
+		"difficulty": "分☆3",
+		"id": "C19e10e7a40295017c36",
+		"isPrimary": true,
+		"legacyChartID": "84509a42c87f1518228fc7427132b6d07c20a502",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b97ba822392b",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AMAZON",
+			"inGameID": 8133
+		},
+		"difficulty": "布☆4",
+		"id": "C19e10e7a402afec2c43",
+		"isPrimary": true,
+		"legacyChartID": "ec93b2016f4ff005cc92ee5ba0130cccea87286d",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b97ba822392b",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8043
+		},
+		"difficulty": "狂☆4",
+		"id": "C19e10e7a401693339b4",
+		"isPrimary": true,
+		"legacyChartID": "adb33d1e986a1b2f18ea3b6e34254ff0287297d4",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b97ba822392b",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR PLUS",
+			"inGameID": 8074
+		},
+		"difficulty": "！☆3",
+		"id": "C19e10e7a4014acc3642",
+		"isPrimary": true,
+		"legacyChartID": "c8b7dc46efaf975633646294b3ea50d6af77c724",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b97c506e2e75",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -7895,6 +8371,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8063
+		},
+		"difficulty": "？☆4",
+		"id": "C19e10e7a40113e07cad",
+		"isPrimary": true,
+		"legacyChartID": "ff521a475e2ff005e59b3e0125a0e6c128e7c395",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b97ef0753785",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -8620,6 +9110,34 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM PLUS",
+			"inGameID": 8012
+		},
+		"difficulty": "跳☆1",
+		"id": "C19e10e7a4012b0dc849",
+		"isPrimary": true,
+		"legacyChartID": "c347132318584e171ffc8653f4a0b41f67fbc3b0",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b982093a5e41",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM PLUS",
+			"inGameID": 8032
+		},
+		"difficulty": "跳☆3",
+		"id": "C19e10e7a401b94f6323",
+		"isPrimary": true,
+		"legacyChartID": "0a9c56dc54dc66a76f4c001a72651599cffab88a",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b982093a5e41",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM",
 			"inGameID": 80
 		},
@@ -9274,6 +9792,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM STAR",
+			"inGameID": 8109
+		},
+		"difficulty": "布☆3",
+		"id": "C19e10e7a402c721f84c",
+		"isPrimary": true,
+		"legacyChartID": "4a62980e72d5166eda7392681650cace98a147c8",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9883501d783",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM",
 			"inGameID": 86
 		},
@@ -9450,6 +9982,34 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8060
+		},
+		"difficulty": "！☆4",
+		"id": "C19e10e7a401ec69f961",
+		"isPrimary": true,
+		"legacyChartID": "23a64095df574985094d35865f56a54ea0be1645",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b98be2f7e09e",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR PLUS",
+			"inGameID": 8073
+		},
+		"difficulty": "！☆5",
+		"id": "C19e10e7a4010e577b12",
+		"isPrimary": true,
+		"legacyChartID": "165a005887c9160fb0f9d79c53cca9b84b9ce9db",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b98be2f7e09e",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM",
 			"inGameID": 88
 		},
@@ -9595,6 +10155,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM PLUS",
+			"inGameID": 8004
+		},
+		"difficulty": "止☆3",
+		"id": "C19e10e7a401699acc1e",
+		"isPrimary": true,
+		"legacyChartID": "132cb7b59c50504602173619de18c3af53d69766",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b98be2f7e09e",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -9927,6 +10501,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM STAR",
+			"inGameID": 8107
+		},
+		"difficulty": "半☆3",
+		"id": "C19e10e7a40107b4f617",
+		"isPrimary": true,
+		"legacyChartID": "74cbc564c6a3bef5fac74e8139437feecd692776",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b98db693c99d",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -10704,6 +11292,34 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8057
+		},
+		"difficulty": "光☆5",
+		"id": "C19e10e7a4019326e084",
+		"isPrimary": true,
+		"legacyChartID": "e0afea1f3f6be46bb5594e1bed54aa344dde0398",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b992c309092d",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM NEW",
+			"inGameID": 8226
+		},
+		"difficulty": "弾☆3",
+		"id": "C19e10e7a402e41ffcdc",
+		"isPrimary": true,
+		"legacyChartID": "e22d2068083637967ef8fdae3b56cdb6fda8562f",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b992c309092d",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM",
 			"inGameID": 96
 		},
@@ -11370,6 +11986,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AIR PLUS",
+			"inGameID": 8088
+		},
+		"difficulty": "避☆2",
+		"id": "C19e10e7a40198cd70e0",
+		"isPrimary": true,
+		"legacyChartID": "5c0a29bde2b04e4b0b86bc9504bd1889820986fb",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b996f3abe716",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM",
 			"inGameID": 100
 		},
@@ -11987,6 +12617,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8059
+		},
+		"difficulty": "跳☆5",
+		"id": "C19e10e7a401d08cffd3",
+		"isPrimary": true,
+		"legacyChartID": "f2701419eb161837f6d7a753d26c0dca21cbe2a1",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b99a31c57898",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM",
 			"inGameID": 104
 		},
@@ -12132,6 +12776,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM PLUS",
+			"inGameID": 8030
+		},
+		"difficulty": "跳☆1",
+		"id": "C19e10e7a401d53e58e4",
+		"isPrimary": true,
+		"legacyChartID": "2b809be69b27a2b67a9c39ccb0216de23baa54ca",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b99bd45c4563",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -12615,6 +13273,34 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8065
+		},
+		"difficulty": "覚☆3",
+		"id": "C19e10e7a401801e83c7",
+		"isPrimary": true,
+		"legacyChartID": "a89eab419b5eb366a6911df270af611ffebdcf43",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b99e381f98ba",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AMAZON PLUS",
+			"inGameID": 8158
+		},
+		"difficulty": "！☆2",
+		"id": "C19e10e7a4029521b6b9",
+		"isPrimary": true,
+		"legacyChartID": "cb9ecd6a74d267fdba08c35fdad312594b71aecd",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b99f6307bd0b",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM",
 			"inGameID": 108
 		},
@@ -12760,6 +13446,34 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8038
+		},
+		"difficulty": "両☆3",
+		"id": "C19e10e7a401ae6c59ec",
+		"isPrimary": true,
+		"legacyChartID": "f2ec4e894e65c91340637eb1932ab9d0571ac203",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b99f6307bd0b",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8066
+		},
+		"difficulty": "割☆5",
+		"id": "C19e10e7a401ff91bd5d",
+		"isPrimary": true,
+		"legacyChartID": "1703f00f33ae6e8db4ad46cca4491e8510348bc7",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b99f6307bd0b",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -13587,6 +14301,34 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM CRYSTAL",
+			"inGameID": 8179
+		},
+		"difficulty": "割☆3",
+		"id": "C19e10e7a4026c0f04fe",
+		"isPrimary": true,
+		"legacyChartID": "0efc7a79cd4e2f75e895b429dd6ee646310924cd",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9a6670a413a",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AMAZON PLUS",
+			"inGameID": 8156
+		},
+		"difficulty": "敷☆2",
+		"id": "C19e10e7a40294c9eb97",
+		"isPrimary": true,
+		"legacyChartID": "6e98344f97bfe5b5dc329ab86dc38a1ef33f9f58",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9a6670a413a",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM",
 			"inGameID": 116
 		},
@@ -14165,6 +14907,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM STAR",
+			"inGameID": 8106
+		},
+		"difficulty": "跳☆3",
+		"id": "C19e10e7a4015cbd3f98",
+		"isPrimary": true,
+		"legacyChartID": "b4d800d1541f5354ff15a5ddcfcb7dc0c6b6a10a",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9aa8b50f711",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -15948,6 +16704,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM STAR PLUS",
+			"inGameID": 8112
+		},
+		"difficulty": "両☆4",
+		"id": "C19e10e7a402a9e47172",
+		"isPrimary": true,
+		"legacyChartID": "3d590e05dd35465f87ead30974af04854e23422c",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9b9459840e5",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM",
 			"inGameID": 135
 		},
@@ -16389,6 +17159,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AMAZON",
+			"inGameID": 8136
+		},
+		"difficulty": "狂☆5",
+		"id": "C19e10e7a402a99c7e63",
+		"isPrimary": true,
+		"legacyChartID": "ab09763f0f1ef2ac8c2a2f443e3e5cd51dd006d8",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9bc1e8551a3",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -16871,6 +17655,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM PLUS",
+			"inGameID": 8023
+		},
+		"difficulty": "戻☆3",
+		"id": "C19e10e7a4019662dfba",
+		"isPrimary": true,
+		"legacyChartID": "3fd3cefe3b1b0da24369fd2d66d5927157e81d62",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9c01b46c6e7",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM",
 			"inGameID": 142
 		},
@@ -17016,6 +17814,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM PLUS",
+			"inGameID": 8007
+		},
+		"difficulty": "両☆2",
+		"id": "C19e10e7a401552b2a49",
+		"isPrimary": true,
+		"legacyChartID": "466a090e9920dd3065966040893d2096a9219c9a",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9c17b507530",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -17350,6 +18162,62 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM NEW PLUS",
+			"inGameID": 8241
+		},
+		"difficulty": "光☆1",
+		"id": "C19e10e7a4022be1fb55",
+		"isPrimary": true,
+		"legacyChartID": "b5d98d1844825933b9549ea1a6fce53211e76b19",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9c34abe74ea",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM PLUS",
+			"inGameID": 8002
+		},
+		"difficulty": "光☆3",
+		"id": "C19e10e7a40100138af3",
+		"isPrimary": true,
+		"legacyChartID": "534e0862607d1e0c86d8fec55e38efe9d0ac699c",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9c34abe74ea",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM PLUS",
+			"inGameID": 8017
+		},
+		"difficulty": "半☆2",
+		"id": "C19e10e7a401aea3d138",
+		"isPrimary": true,
+		"legacyChartID": "8dd24117158feb6ebff00ba7d9ac765819157037",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9c34abe74ea",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AMAZON PLUS",
+			"inGameID": 8164
+		},
+		"difficulty": "蔵☆4",
+		"id": "C19e10e7a402ea24bbc4",
+		"isPrimary": true,
+		"legacyChartID": "0d98bd38b7517c04a1f176b78de84081e7e31427",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9c34abe74ea",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM",
 			"inGameID": 145
 		},
@@ -17509,6 +18377,20 @@
 		"levelNum": 14.6,
 		"songID": "S19d35e0b9c407862e76",
 		"versions": ["xverse", "xverse-omni", "xversex"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR PLUS",
+			"inGameID": 8071
+		},
+		"difficulty": "両☆2",
+		"id": "C19e10e7a40133f6f988",
+		"isPrimary": true,
+		"legacyChartID": "f638ddef2951fd8b900ad73652271234c6b674d4",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9c407862e76",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -17808,6 +18690,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM PLUS",
+			"inGameID": 8016
+		},
+		"difficulty": "半☆1",
+		"id": "C19e10e7a401eeea89c4",
+		"isPrimary": true,
+		"legacyChartID": "a68e6ce7244c40f7fa602397aff7f2dc02be39a2",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9c62e2e0c36",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM",
 			"inGameID": 148
 		},
@@ -17989,6 +18885,34 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM PLUS",
+			"inGameID": 8018
+		},
+		"difficulty": "弾☆1",
+		"id": "C19e10e7a4015ace6f23",
+		"isPrimary": true,
+		"legacyChartID": "26da08f15da03bdd8594ed317fa73fd8a76b3a1b",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9c7c8b3b591",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM STAR PLUS",
+			"inGameID": 8113
+		},
+		"difficulty": "弾☆3",
+		"id": "C19e10e7a40276d766f4",
+		"isPrimary": true,
+		"legacyChartID": "047eebeb06c51b07f26231ed887f3a5b83333b93",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9c7c8b3b591",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -18313,6 +19237,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8048
+		},
+		"difficulty": "！☆2",
+		"id": "C19e10e7a401be926a18",
+		"isPrimary": true,
+		"legacyChartID": "141a8db37b6e68063ca27daa76f313692f01aa92",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9ca42896377",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -18823,6 +19761,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AIR PLUS",
+			"inGameID": 8075
+		},
+		"difficulty": "敷☆2",
+		"id": "C19e10e7a40170eaec6a",
+		"isPrimary": true,
+		"legacyChartID": "e63055cb4e050bbaecfa9892945a5add152fa654",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9cea5a779df",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM",
 			"inGameID": 156
 		},
@@ -18936,6 +19888,20 @@
 			"verse-omni",
 			"xverse-omni"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR PLUS",
+			"inGameID": 8068
+		},
+		"difficulty": "避☆2",
+		"id": "C19e10e7a401c5bb2832",
+		"isPrimary": true,
+		"legacyChartID": "873702c9223ea6bc2f6a613f886fe6e3988b8de4",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9cfbcfe26f1",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -19084,6 +20050,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM PLUS",
+			"inGameID": 8011
+		},
+		"difficulty": "跳☆2",
+		"id": "C19e10e7a40141bcf014",
+		"isPrimary": true,
+		"legacyChartID": "e5f9e09c183d8f1c5fbf72b4662e820987d11a9f",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9d0b9615c21",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -19413,6 +20393,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8058
+		},
+		"difficulty": "弾☆4",
+		"id": "C19e10e7a40184b6df80",
+		"isPrimary": true,
+		"legacyChartID": "a5264915517af68736147f2d122e845d57511364",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9d2bcb58131",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -19923,6 +20917,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM PLUS",
+			"inGameID": 8001
+		},
+		"difficulty": "止☆2",
+		"id": "C19e10e7a40023ab29d9",
+		"isPrimary": true,
+		"legacyChartID": "4df60c64a588dc010ae1ee3a538ef28a95d2c8db",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9d6d05498b0",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM",
 			"inGameID": 165
 		},
@@ -20068,6 +21076,48 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8040
+		},
+		"difficulty": "割☆3",
+		"id": "C19e10e7a4013b01dda5",
+		"isPrimary": true,
+		"legacyChartID": "4f703becb9d3f4d303dad1a20319e14fee77eafa",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9d819c13649",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AMAZON PLUS",
+			"inGameID": 8163
+		},
+		"difficulty": "狂☆4",
+		"id": "C19e10e7a402b69e63fe",
+		"isPrimary": true,
+		"legacyChartID": "a61c67f9321ca33fe7fc1a5a8d775beacfab1548",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9d819c13649",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AMAZON",
+			"inGameID": 8144
+		},
+		"difficulty": "！☆4",
+		"id": "C19e10e7a4023980854e",
+		"isPrimary": true,
+		"legacyChartID": "e55668a19fb30556a44dd2bc957fc292cf874a26",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9d9ffae10ef",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -20250,6 +21300,34 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8062
+		},
+		"difficulty": "両☆2",
+		"id": "C19e10e7a401bc3b8bb5",
+		"isPrimary": true,
+		"legacyChartID": "2a5ebeddfc4a3efc2582f7ec62288b9bf72a5f64",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9d9ffae10ef",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM PARADISE LOST",
+			"inGameID": 8231
+		},
+		"difficulty": "招☆3",
+		"id": "C19e10e7a402000234b7",
+		"isPrimary": true,
+		"legacyChartID": "db134e302fced2d6ca5633bb0b42d0c6c25510ed",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9d9ffae10ef",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -20787,6 +21865,48 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM PLUS",
+			"inGameID": 8029
+		},
+		"difficulty": "両☆2",
+		"id": "C19e10e7a40139fa8562",
+		"isPrimary": true,
+		"legacyChartID": "896939ba1ed2ed38ace2ae5a8884fb5dbd7c2660",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9dcfb46fbe1",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM STAR",
+			"inGameID": 8097
+		},
+		"difficulty": "割☆3",
+		"id": "C19e10e7a401c9c0c92d",
+		"isPrimary": true,
+		"legacyChartID": "8435bdf4343e648dc7f13d1344a731bfa0e8dbbb",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9dcfb46fbe1",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8056
+		},
+		"difficulty": "？☆2",
+		"id": "C19e10e7a401b72e4146",
+		"isPrimary": true,
+		"legacyChartID": "d43f0761a8a92f82c318d620275847403d894012",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9ddc68ec8b5",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM",
 			"inGameID": 170
 		},
@@ -20932,6 +22052,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM CRYSTAL",
+			"inGameID": 8170
+		},
+		"difficulty": "蔵☆3",
+		"id": "C19e10e7a4025dab6511",
+		"isPrimary": true,
+		"legacyChartID": "22ac7b79a07771060731adfacad0dae4f2dae716",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9ddc68ec8b5",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -22952,6 +24086,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM CRYSTAL",
+			"inGameID": 8178
+		},
+		"difficulty": "跳☆3",
+		"id": "C19e10e7a4024ef436cb",
+		"isPrimary": true,
+		"legacyChartID": "08546ee2891275c535975f0ea6f9397ef59faa66",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9f0d6e4597a",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM AIR",
 			"inGameID": 190
 		},
@@ -23097,6 +24245,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR PLUS",
+			"inGameID": 8085
+		},
+		"difficulty": "狂☆4",
+		"id": "C19e10e7a401158bb333",
+		"isPrimary": true,
+		"legacyChartID": "22fc598cfcef0da56fd927c1df77173b8bc78bfc",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9f1d749e9a1",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -23978,6 +25140,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8039
+		},
+		"difficulty": "跳☆3",
+		"id": "C19e10e7a401ec829789",
+		"isPrimary": true,
+		"legacyChartID": "0cc3fb91b6b4d3ecdc9194117d44b652b5077886",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9f771fcf191",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM PLUS",
 			"inGameID": 197
 		},
@@ -24123,6 +25299,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8035
+		},
+		"difficulty": "速☆2",
+		"id": "C19e10e7a40172abe038",
+		"isPrimary": true,
+		"legacyChartID": "45368040a7a9f99e01d6b2cc5050d768b1adf814",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9f87eb34def",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -24570,6 +25760,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8054
+		},
+		"difficulty": "！☆3",
+		"id": "C19e10e7a4015a28e7db",
+		"isPrimary": true,
+		"legacyChartID": "e25dec360134647f439710beef63aea9dfdb7f70",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9fc4629cc74",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM PLUS",
 			"inGameID": 201
 		},
@@ -24863,6 +26067,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8037
+		},
+		"difficulty": "光☆1",
+		"id": "C19e10e7a401456b9fa5",
+		"isPrimary": true,
+		"legacyChartID": "a32192534d53a8d1f36f781a7b7e81ccf1a3735f",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0b9fd86abf491",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -25382,6 +26600,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8061
+		},
+		"difficulty": "避☆3",
+		"id": "C19e10e7a4014db1804e",
+		"isPrimary": true,
+		"legacyChartID": "0f76e55545f507b536a8dd1ef86835c80f279224",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba007019c066",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM",
 			"inGameID": 206
 		},
@@ -25558,6 +26790,34 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AMAZON PLUS",
+			"inGameID": 8157
+		},
+		"difficulty": "割☆4",
+		"id": "C19e10e7a402d1bfd8e3",
+		"isPrimary": true,
+		"legacyChartID": "3cf21fcd70576956d12561f8523be20fba29f4c7",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba0204d4af43",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8033
+		},
+		"difficulty": "避☆1",
+		"id": "C19e10e7a4019cb40a15",
+		"isPrimary": true,
+		"legacyChartID": "4101096455ac67197d5255007215cc4f242449cb",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba0204d4af43",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM PLUS",
 			"inGameID": 208
 		},
@@ -25706,6 +26966,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8064
+		},
+		"difficulty": "覚☆2",
+		"id": "C19e10e7a401ce4bf9e2",
+		"isPrimary": true,
+		"legacyChartID": "28c2167cb10d4f2dd9bfa8357a1aaa223240a61a",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba036b6f8e28",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM PLUS",
 			"inGameID": 209
 		},
@@ -25791,6 +27065,20 @@
 			"verse-omni",
 			"xverse-omni"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8055
+		},
+		"difficulty": "敷☆2",
+		"id": "C19e10e7a401904489be",
+		"isPrimary": true,
+		"legacyChartID": "915ecf32e77159db7c4a430f7d1dc13e0a04452b",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba04db97232c",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -26263,6 +27551,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8046
+		},
+		"difficulty": "歌☆2",
+		"id": "C19e10e7a401281b4df9",
+		"isPrimary": true,
+		"legacyChartID": "3a8d66525dbb3bdc7385e6ee54375fd5d42a4e7f",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba0757834e74",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM PLUS",
 			"inGameID": 213
 		},
@@ -26496,6 +27798,20 @@
 			"verse-omni",
 			"xverse-omni"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8047
+		},
+		"difficulty": "招☆1",
+		"id": "C19e10e7a401b7d7e648",
+		"isPrimary": true,
+		"legacyChartID": "ee76305bec5252f41249af376ed1326748fc8a7b",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba09e0d7eb57",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -27128,6 +28444,34 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM CRYSTAL",
+			"inGameID": 8173
+		},
+		"difficulty": "敷☆3",
+		"id": "C19e10e7a402886dae11",
+		"isPrimary": true,
+		"legacyChartID": "16bb4b88e4f0445a3d7bda9a85bc4fcbe16bd391",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba0ec8b8a834",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM STAR",
+			"inGameID": 8104
+		},
+		"difficulty": "蔵☆5",
+		"id": "C19e10e7a4016add59b3",
+		"isPrimary": true,
+		"legacyChartID": "6eb3b3a4ae066798489403e348b6a3215a978280",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba0ec8b8a834",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -28892,6 +30236,34 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM LUMINOUS PLUS",
+			"inGameID": 8288
+		},
+		"difficulty": "跳☆4",
+		"id": "C19e10e7a402f7998cba",
+		"isPrimary": true,
+		"legacyChartID": "d1cabd8f7d72ba5ead927e39f7d472b8bdc5c142",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba1bbb9b4c5d",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8045
+		},
+		"difficulty": "速☆3",
+		"id": "C19e10e7a401e6ed81b8",
+		"isPrimary": true,
+		"legacyChartID": "8ab0b5483d29974b20b4fd10d73cb066200937bf",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba1bbb9b4c5d",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM PLUS",
 			"inGameID": 233
 		},
@@ -29076,6 +30448,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM NEW PLUS",
+			"inGameID": 8237
+		},
+		"difficulty": "蔵☆4",
+		"id": "C19e10e7a402d9a1d393",
+		"isPrimary": true,
+		"legacyChartID": "7c2ac039765fb0d3f7c3e9f7635a0e270e3af08c",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba1c9ded1f04",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM AIR PLUS",
 			"inGameID": 234
 		},
@@ -29221,6 +30607,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM STAR PLUS",
+			"inGameID": 8127
+		},
+		"difficulty": "覚☆4",
+		"id": "C19e10e7a40215c9ea73",
+		"isPrimary": true,
+		"legacyChartID": "b82f2d7989d67ddde4f34a0975c0045cd10b2d72",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba1d7085c2e2",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -29786,6 +31186,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AIR",
+			"inGameID": 8051
+		},
+		"difficulty": "速☆3",
+		"id": "C19e10e7a4014c937499",
+		"isPrimary": true,
+		"legacyChartID": "b8cd38bf6e1f228f9f0b1ff89b78188408e5b333",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba27d88dc4db",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM PLUS",
 			"inGameID": 245
 		},
@@ -30329,6 +31743,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR PLUS",
+			"inGameID": 8080
+		},
+		"difficulty": "狂☆5",
+		"id": "C19e10e7a40189fa3dbb",
+		"isPrimary": true,
+		"legacyChartID": "fe1b25e1984cb7ebc631640b7bb3915d002a2ca3",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba2b51d14b96",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -31217,6 +32645,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM STAR",
+			"inGameID": 8105
+		},
+		"difficulty": "割☆5",
+		"id": "C19e10e7a401e7b24bb7",
+		"isPrimary": true,
+		"legacyChartID": "74874868fed4566930f3d491a646d10bf6a746b1",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba31a796ff67",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -32207,6 +33649,34 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM STAR PLUS",
+			"inGameID": 8120
+		},
+		"difficulty": "時☆3",
+		"id": "C19e10e7a402551011db",
+		"isPrimary": true,
+		"legacyChartID": "3e8a56fae5155662269e3c75dd6ec3a20eabd19f",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba382409ffb9",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM STAR",
+			"inGameID": 8099
+		},
+		"difficulty": "！☆3",
+		"id": "C19e10e7a401f8392e4a",
+		"isPrimary": true,
+		"legacyChartID": "addc5f8f18e94d8a897de7f828df89c1336cdb8f",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba39dd4d8c2d",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -36428,6 +37898,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AIR PLUS",
+			"inGameID": 8081
+		},
+		"difficulty": "歌☆2",
+		"id": "C19e10e7a401dd5cf7f3",
+		"isPrimary": true,
+		"legacyChartID": "3d2b20f9c225f6ea934519da2d21acc5d4911220",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba557ba3491f",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM AIR",
 			"inGameID": 291
 		},
@@ -38762,6 +40246,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM STAR PLUS",
+			"inGameID": 8128
+		},
+		"difficulty": "割☆3",
+		"id": "C19e10e7a40291b6a6cb",
+		"isPrimary": true,
+		"legacyChartID": "afd538aaf604ec7ac184a17663cd818771fff294",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba65108d65b1",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM AIR",
 			"inGameID": 307
 		},
@@ -38907,6 +40405,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR PLUS",
+			"inGameID": 8070
+		},
+		"difficulty": "止☆3",
+		"id": "C19e10e7a40131904d2e",
+		"isPrimary": true,
+		"legacyChartID": "75a8c693706d1f19d24ad1ded69fef640a30ab7d",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba666fba6148",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -39502,6 +41014,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM STAR",
+			"inGameID": 8095
+		},
+		"difficulty": "蔵☆3",
+		"id": "C19e10e7a401bd92b52a",
+		"isPrimary": true,
+		"legacyChartID": "39545e1e52d8f4eb8f4ac2e2db418e1e5ab72efc",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba6c6c9b67bd",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM AIR",
 			"inGameID": 314
 		},
@@ -40009,6 +41535,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR PLUS",
+			"inGameID": 8087
+		},
+		"difficulty": "狂☆4",
+		"id": "C19e10e7a40104d21cce",
+		"isPrimary": true,
+		"legacyChartID": "ddbe8fb70b423f1a41de9fb268ee8de53fdab121",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba7066b5a1e3",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -40785,6 +42325,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM PARADISE",
+			"inGameID": 8200
+		},
+		"difficulty": "両☆4",
+		"id": "C19e10e7a40225fbc426",
+		"isPrimary": true,
+		"legacyChartID": "c58211bd7b1dde64516453abda358e3adebfa6c0",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba758825306e",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -41710,6 +43264,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR PLUS",
+			"inGameID": 8069
+		},
+		"difficulty": "狂☆5",
+		"id": "C19e10e7a401718e6b52",
+		"isPrimary": true,
+		"legacyChartID": "f1b200ce9f07329498ceba3e941c5e65f58293d8",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba7b020c7c9c",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -43464,6 +45032,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM STAR",
+			"inGameID": 8101
+		},
+		"difficulty": "割☆2",
+		"id": "C19e10e7a40198fb9882",
+		"isPrimary": true,
+		"legacyChartID": "3e064858ccbcc46cb07cbc4f1adec256702a7b8e",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba8682b3fafe",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM AIR PLUS",
 			"inGameID": 340
 		},
@@ -44493,6 +46075,20 @@
 	{
 		"data": {
 			"displayVersion": "CHUNITHM AIR PLUS",
+			"inGameID": 8076
+		},
+		"difficulty": "敷☆3",
+		"id": "C19e10e7a4013572e6eb",
+		"isPrimary": true,
+		"legacyChartID": "ea1d3c5b02415be01032daa41b1d797386fc5450",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba91611e511f",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR PLUS",
 			"inGameID": 351
 		},
 		"difficulty": "ADVANCED",
@@ -44581,6 +46177,20 @@
 	{
 		"data": {
 			"displayVersion": "CHUNITHM AIR PLUS",
+			"inGameID": 8077
+		},
+		"difficulty": "割☆2",
+		"id": "C19e10e7a40123e69d15",
+		"isPrimary": true,
+		"legacyChartID": "c19aea7dd84a0a0fca3f45c8f827ad0bd72598b7",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba92dd33ed1f",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR PLUS",
 			"inGameID": 352
 		},
 		"difficulty": "ADVANCED",
@@ -44665,6 +46275,20 @@
 			"verse-omni",
 			"xverse-omni"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM STAR",
+			"inGameID": 8093
+		},
+		"difficulty": "招☆3",
+		"id": "C19e10e7a40125569bfd",
+		"isPrimary": true,
+		"legacyChartID": "d841cbf970a3e56660c27c6fd2b3977b46546940",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0ba9309cc94f7",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -47774,6 +49398,34 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AMAZON PLUS",
+			"inGameID": 8155
+		},
+		"difficulty": "両☆2",
+		"id": "C19e10e7a402ff964c63",
+		"isPrimary": true,
+		"legacyChartID": "85615d1d0263f6b7d0aa3c5a068fe16b4545e41e",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0baaf555edece",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM STAR",
+			"inGameID": 8094
+		},
+		"difficulty": "覚☆2",
+		"id": "C19e10e7a40184694c0c",
+		"isPrimary": true,
+		"legacyChartID": "a3c4f10a86da6806c62bae033924ac064db7519e",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0baaf555edece",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM AIR PLUS",
 			"inGameID": 381
 		},
@@ -48699,6 +50351,20 @@
 	{
 		"data": {
 			"displayVersion": "CHUNITHM AIR PLUS",
+			"inGameID": 8082
+		},
+		"difficulty": "招☆5",
+		"id": "C19e10e7a4010454c51f",
+		"isPrimary": true,
+		"legacyChartID": "c75cd4db4542badd1bef51e420dd10e9ec84ca15",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bab58a3c7f73",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR PLUS",
 			"inGameID": 388
 		},
 		"difficulty": "ADVANCED",
@@ -49439,6 +51105,34 @@
 	{
 		"data": {
 			"displayVersion": "CHUNITHM AIR PLUS",
+			"inGameID": 8089
+		},
+		"difficulty": "狂☆4",
+		"id": "C19e10e7a401860fa65c",
+		"isPrimary": true,
+		"legacyChartID": "3062394dbfe4ef4fad603fa84e838d6cd77922d2",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0babce7ec502c",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM CRYSTAL PLUS",
+			"inGameID": 8186
+		},
+		"difficulty": "避☆3",
+		"id": "C19e10e7a40240acd0ee",
+		"isPrimary": true,
+		"legacyChartID": "2f8f9d0d02d70fd3c0fa27182bcdb9e0016b0bb3",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0babce7ec502c",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AIR PLUS",
 			"inGameID": 394
 		},
 		"difficulty": "ADVANCED",
@@ -49583,6 +51277,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM STAR PLUS",
+			"inGameID": 8115
+		},
+		"difficulty": "光☆4",
+		"id": "C19e10e7a4028718fb03",
+		"isPrimary": true,
+		"legacyChartID": "7b0d37e95d661fbbd66c5b8a446ff1e3a6347c75",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0babdcfab5b2b",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -50354,6 +52062,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM STAR PLUS",
+			"inGameID": 8118
+		},
+		"difficulty": "？☆4",
+		"id": "C19e10e7a402659b0c34",
+		"isPrimary": true,
+		"legacyChartID": "d4eafa852a9218ee3e1632062412f8d465619a11",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bac5c8bc35c5",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM AIR PLUS",
 			"inGameID": 402
 		},
@@ -50795,6 +52517,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM LUMINOUS PLUS",
+			"inGameID": 8291
+		},
+		"difficulty": "？☆2",
+		"id": "C19e10e7a40242247576",
+		"isPrimary": true,
+		"legacyChartID": "9d6bb6395615b5a1eb9b72df0d681fb914ab3055",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bac82a958686",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -52688,6 +54424,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM STAR PLUS",
+			"inGameID": 8111
+		},
+		"difficulty": "招☆2",
+		"id": "C19e10e7a4026567795d",
+		"isPrimary": true,
+		"legacyChartID": "f2717173a51c2f88289fae4bd9cba632f9d7c924",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0badb93a25f24",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM STAR",
 			"inGameID": 426
 		},
@@ -53151,6 +54901,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM SUN PLUS",
+			"inGameID": 8263
+		},
+		"difficulty": "避☆5",
+		"id": "C19e10e7a402baab6c8e",
+		"isPrimary": true,
+		"legacyChartID": "1f3aa6def14abc75f0f9370c2fad2ec95e74d5d1",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0badfe6439269",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -55276,6 +57040,34 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM STAR PLUS",
+			"inGameID": 8114
+		},
+		"difficulty": "跳☆4",
+		"id": "C19e10e7a402ed2e4e5e",
+		"isPrimary": true,
+		"legacyChartID": "eafae85f7f6e1ad0b5424626cb5b5457ba115804",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0baedb0200c8d",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AMAZON",
+			"inGameID": 8142
+		},
+		"difficulty": "跳☆5",
+		"id": "C19e10e7a402d1b5c468",
+		"isPrimary": true,
+		"legacyChartID": "3757f62ae771a6197e9486452a310dd04f0852cb",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0baedb0200c8d",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM STAR",
 			"inGameID": 444
 		},
@@ -56869,6 +58661,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AMAZON",
+			"inGameID": 8140
+		},
+		"difficulty": "蔵☆3",
+		"id": "C19e10e7a402aa5989dc",
+		"isPrimary": true,
+		"legacyChartID": "f6cb7a484b8c6d23cf72253f68e21287b95fabd1",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bafdbced2585",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM STAR",
 			"inGameID": 459
 		},
@@ -57645,6 +59451,20 @@
 	{
 		"data": {
 			"displayVersion": "CHUNITHM STAR PLUS",
+			"inGameID": 8126
+		},
+		"difficulty": "？☆5",
+		"id": "C19e10e7a4028a729a15",
+		"isPrimary": true,
+		"legacyChartID": "92e9721ac3ea140dfa08dbd5449389c1a6bed6e7",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bb04c3b39359",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM STAR PLUS",
 			"inGameID": 465
 		},
 		"difficulty": "ADVANCED",
@@ -57789,6 +59609,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AMAZON PLUS",
+			"inGameID": 8167
+		},
+		"difficulty": "狂☆5",
+		"id": "C19e10e7a402b04b9d72",
+		"isPrimary": true,
+		"legacyChartID": "1e5c8b89c39b90011fe639dba18af05144653c5c",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bb04c3b39359",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -58085,6 +59919,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AMAZON",
+			"inGameID": 8145
+		},
+		"difficulty": "割☆2",
+		"id": "C19e10e7a4024ccacb76",
+		"isPrimary": true,
+		"legacyChartID": "943940b24b8df73f4857ec6518893de3365ed5ef",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bb0698730808",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -59481,6 +61329,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AMAZON PLUS",
+			"inGameID": 8162
+		},
+		"difficulty": "？☆5",
+		"id": "C19e10e7a40211479781",
+		"isPrimary": true,
+		"legacyChartID": "03d6fd89140b785a9349656b2e03ce290583b0e0",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bb1262425685",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -60964,6 +62826,34 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM CRYSTAL PLUS",
+			"inGameID": 8189
+		},
+		"difficulty": "覚☆3",
+		"id": "C19e10e7a4028067fe87",
+		"isPrimary": true,
+		"legacyChartID": "69dd4573705b5714c5be43a6d76949c9e7cd95ed",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bb1de91fc219",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AMAZON PLUS",
+			"inGameID": 8151
+		},
+		"difficulty": "避☆3",
+		"id": "C19e10e7a40289f78331",
+		"isPrimary": true,
+		"legacyChartID": "a38404b07387b5745c468e121fbd0c35e13f6560",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bb1de91fc219",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM STAR PLUS",
 			"inGameID": 491
 		},
@@ -61792,6 +63682,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM STAR PLUS",
+			"inGameID": 8125
+		},
+		"difficulty": "止☆3",
+		"id": "C19e10e7a4020022e252",
+		"isPrimary": true,
+		"legacyChartID": "504c90ffca0fbc0e93b6871a62680e854c2a0f2c",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bb23c565b1d4",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM STAR",
 			"inGameID": 497
 		},
@@ -61940,6 +63844,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AMAZON",
+			"inGameID": 8134
+		},
+		"difficulty": "？☆2",
+		"id": "C19e10e7a402a75213ae",
+		"isPrimary": true,
+		"legacyChartID": "f29b1994f34250b66b9c98cb5744a9c7ff9af3a6",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bb251d19f5af",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM STAR",
 			"inGameID": 498
 		},
@@ -62085,6 +64003,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM NEW",
+			"inGameID": 8214
+		},
+		"difficulty": "両☆3",
+		"id": "C19e10e7a402c4b1a9ed",
+		"isPrimary": true,
+		"legacyChartID": "53503c955437ded0e8d7efe3c3367d338143afb8",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bb251d19f5af",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -63188,6 +65120,48 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AMAZON",
+			"inGameID": 8137
+		},
+		"difficulty": "敷☆2",
+		"id": "C19e10e7a4028ed789be",
+		"isPrimary": true,
+		"legacyChartID": "14c22ccf098001afb241ed473380ff6b29f94bae",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bb2db5e52d92",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM STAR",
+			"inGameID": 8108
+		},
+		"difficulty": "狂☆5",
+		"id": "C19e10e7a40169ccfdcb",
+		"isPrimary": true,
+		"legacyChartID": "b69b6aff26788c8d37e1ae040115d9c5c7851084",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bb2db5e52d92",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM PARADISE",
+			"inGameID": 8203
+		},
+		"difficulty": "覚☆3",
+		"id": "C19e10e7a402a98a8a22",
+		"isPrimary": true,
+		"legacyChartID": "80f88bafa2c1c2c0c50e44ba0d69b0ffd47a6d2f",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bb2db5e52d92",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM STAR",
 			"inGameID": 509
 		},
@@ -64160,6 +66134,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AMAZON PLUS",
+			"inGameID": 8161
+		},
+		"difficulty": "割☆3",
+		"id": "C19e10e7a402468f9599",
+		"isPrimary": true,
+		"legacyChartID": "083406ce9539e1a81d2528e4b253082479c463e3",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bb3748d86afb",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM AMAZON",
 			"inGameID": 517
 		},
@@ -64767,6 +66755,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AMAZON",
+			"inGameID": 8148
+		},
+		"difficulty": "？☆3",
+		"id": "C19e10e7a402c4fbe8ba",
+		"isPrimary": true,
+		"legacyChartID": "192e3bf5a9900300dbd5d03bd30fe59758bf658d",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bb410f13ac0c",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -66449,6 +68451,20 @@
 	{
 		"data": {
 			"displayVersion": "CHUNITHM STAR PLUS",
+			"inGameID": 8119
+		},
+		"difficulty": "跳☆3",
+		"id": "C19e10e7a402c01390c9",
+		"isPrimary": true,
+		"legacyChartID": "2c5f19dd97810fb6a63da8114170faed3827af81",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bb515cbe752f",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM STAR PLUS",
 			"inGameID": 544
 		},
 		"difficulty": "ADVANCED",
@@ -67589,6 +69605,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AMAZON PLUS",
+			"inGameID": 8152
+		},
+		"difficulty": "敷☆5",
+		"id": "C19e10e7a4026f586160",
+		"isPrimary": true,
+		"legacyChartID": "f48c5c4068f353944d01ed2affab7d9103401bcb",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bb5bb6d1d4b6",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -68780,6 +70810,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AMAZON",
+			"inGameID": 8131
+		},
+		"difficulty": "両☆3",
+		"id": "C19e10e7a4026a26ddb4",
+		"isPrimary": true,
+		"legacyChartID": "13936159aacc59b3b4d233b9a4afea8b6adbb503",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bb630cbb2563",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM STAR PLUS",
 			"inGameID": 561
 		},
@@ -69486,6 +71530,34 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AMAZON",
+			"inGameID": 8139
+		},
+		"difficulty": "割☆3",
+		"id": "C19e10e7a40240c568c1",
+		"isPrimary": true,
+		"legacyChartID": "889c2bcfb32cc3bf1464343e766517cd3d47f622",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bb6932b8d2c8",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AMAZON PLUS",
+			"inGameID": 8153
+		},
+		"difficulty": "蔵☆2",
+		"id": "C19e10e7a40212b79871",
+		"isPrimary": true,
+		"legacyChartID": "360b720b5284a0f3793c056293079400a6928f9c",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bb6932b8d2c8",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM STAR PLUS",
 			"inGameID": 567
 		},
@@ -70075,6 +72147,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AMAZON",
+			"inGameID": 8135
+		},
+		"difficulty": "！☆4",
+		"id": "C19e10e7a4025544971a",
+		"isPrimary": true,
+		"legacyChartID": "44ec71a6eef7063d153b600d6c0612ffca058967",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bb6fc05b54ca",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -73084,6 +75170,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AMAZON PLUS",
+			"inGameID": 8160
+		},
+		"difficulty": "両☆4",
+		"id": "C19e10e7a402124009af",
+		"isPrimary": true,
+		"legacyChartID": "735b5f5b48842410f36dea35944e9c820e2fe7e3",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bb86aef27d50",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM STAR PLUS",
 			"inGameID": 597
 		},
@@ -74480,6 +76580,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM CRYSTAL PLUS",
+			"inGameID": 8184
+		},
+		"difficulty": "狂☆2",
+		"id": "C19e10e7a402df254f46",
+		"isPrimary": true,
+		"legacyChartID": "c87219de9ed42bb13bebea8b7cafdffd2623653c",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bb94b78a472e",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM STAR PLUS",
 			"inGameID": 610
 		},
@@ -74653,6 +76767,20 @@
 			"verse-omni",
 			"xverse-omni"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AMAZON",
+			"inGameID": 8143
+		},
+		"difficulty": "招☆4",
+		"id": "C19e10e7a4026d425e3d",
+		"isPrimary": true,
+		"legacyChartID": "22792a463d21182414db2615942dba79a18ec73d",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bb968cddfd08",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -75424,6 +77552,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AMAZON PLUS",
+			"inGameID": 8165
+		},
+		"difficulty": "狂☆4",
+		"id": "C19e10e7a4029521923f",
+		"isPrimary": true,
+		"legacyChartID": "9dd268b82c67090868a965424619ea2ed3e4d6dd",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bb9cf44e6acf",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM STAR PLUS",
 			"inGameID": 618
 		},
@@ -75720,6 +77862,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AMAZON",
+			"inGameID": 8141
+		},
+		"difficulty": "狂☆5",
+		"id": "C19e10e7a4029d04210d",
+		"isPrimary": true,
+		"legacyChartID": "ad9f7dee3f3f2272d345edd9eb3f0186cf4401c8",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bb9e4eaee9e1",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM STAR PLUS",
 			"inGameID": 620
 		},
@@ -75805,6 +77961,20 @@
 			"verse-omni",
 			"xverse-omni"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM CRYSTAL",
+			"inGameID": 8169
+		},
+		"difficulty": "光☆4",
+		"id": "C19e10e7a4022570f0cc",
+		"isPrimary": true,
+		"legacyChartID": "c9626cdbf98697cf04e583a401df7b6ee2c44691",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bb9f13ac9af4",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -76160,6 +78330,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AMAZON",
+			"inGameID": 8138
+		},
+		"difficulty": "弾☆2",
+		"id": "C19e10e7a4025ffd66db",
+		"isPrimary": true,
+		"legacyChartID": "5d89fe89d87f539c19ab4cd139f9deaed4bd2b8d",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bba3a9d3c5d5",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM STAR PLUS",
 			"inGameID": 625
 		},
@@ -76305,6 +78489,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM CRYSTAL",
+			"inGameID": 8171
+		},
+		"difficulty": "光☆3",
+		"id": "C19e10e7a4020791b25f",
+		"isPrimary": true,
+		"legacyChartID": "b1044c9cecec7c004e237d7d9f59bdfbaef12a13",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bba4c5678152",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -76805,6 +79003,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM AMAZON PLUS",
+			"inGameID": 8154
+		},
+		"difficulty": "弾☆3",
+		"id": "C19e10e7a402c21c4fea",
+		"isPrimary": true,
+		"legacyChartID": "713797750c1460b73aff2a679660ca0d617cc657",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bba7671a3ba0",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM STAR PLUS",
 			"inGameID": 629
 		},
@@ -77098,6 +79310,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AMAZON",
+			"inGameID": 8130
+		},
+		"difficulty": "招☆4",
+		"id": "C19e10e7a4020530d0e8",
+		"isPrimary": true,
+		"legacyChartID": "f7783e71f43c7a034e0ab818581fa21d7ba30ca9",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bbaa9b3f1332",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -77841,6 +80067,34 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM NEW PLUS",
+			"inGameID": 8234
+		},
+		"difficulty": "光☆1",
+		"id": "C19e10e7a40298495d5d",
+		"isPrimary": true,
+		"legacyChartID": "4fe0057142febfbde8923f8e6e3f5cfd93f92667",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bbb0f4af2aa4",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AMAZON",
+			"inGameID": 8132
+		},
+		"difficulty": "蔵☆3",
+		"id": "C19e10e7a4020fe791b4",
+		"isPrimary": true,
+		"legacyChartID": "701bbd59de59e485cc2223e8bb79977d3d688240",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bbb0f4af2aa4",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM STAR PLUS",
 			"inGameID": 638
 		},
@@ -78162,6 +80416,20 @@
 			"verse-omni",
 			"xverse-omni"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AMAZON PLUS",
+			"inGameID": 8149
+		},
+		"difficulty": "跳☆3",
+		"id": "C19e10e7a402f0cc8207",
+		"isPrimary": true,
+		"legacyChartID": "f1d108ed11e39890fd15df4eb16acbbe934c2f9b",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bbb39af6d202",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -81581,6 +83849,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM PARADISE",
+			"inGameID": 8199
+		},
+		"difficulty": "招☆3",
+		"id": "C19e10e7a402893be36d",
+		"isPrimary": true,
+		"legacyChartID": "848fd0308bfbb7e73662ef60176bac3d2055d539",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bbd2f2e7d790",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM AMAZON",
 			"inGameID": 672
 		},
@@ -83711,6 +85993,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM CRYSTAL PLUS",
+			"inGameID": 8195
+		},
+		"difficulty": "？☆3",
+		"id": "C19e10e7a402d005613f",
+		"isPrimary": true,
+		"legacyChartID": "f9be5f53a03226bf168eb4e6bd117c50c13afc45",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bbe51aa41cd3",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM AMAZON",
 			"inGameID": 690
 		},
@@ -85501,6 +87797,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM CRYSTAL",
+			"inGameID": 8172
+		},
+		"difficulty": "両☆2",
+		"id": "C19e10e7a402dbb2b15f",
+		"isPrimary": true,
+		"legacyChartID": "f8ef080a6cc83ff3be111e5998243233c4b63c30",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bbf0bfb8311f",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM AMAZON",
 			"inGameID": 702
 		},
@@ -86534,6 +88844,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM CRYSTAL PLUS",
+			"inGameID": 8182
+		},
+		"difficulty": "両☆2",
+		"id": "C19e10e7a402f66bcedf",
+		"isPrimary": true,
+		"legacyChartID": "fc6654933846cd759ca97e3b17bd8dc1ece7e822",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bbf7cd672050",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -88848,6 +91172,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM CRYSTAL PLUS",
+			"inGameID": 8188
+		},
+		"difficulty": "撃☆2",
+		"id": "C19e10e7a4026dcf2cda",
+		"isPrimary": true,
+		"legacyChartID": "a46d31096cb911a238b84e55f0331c5d5e033fd1",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bc0d0fc35859",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM AMAZON PLUS",
 			"inGameID": 731
 		},
@@ -89289,6 +91627,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM CRYSTAL",
+			"inGameID": 8174
+		},
+		"difficulty": "！☆3",
+		"id": "C19e10e7a402fcf387d3",
+		"isPrimary": true,
+		"legacyChartID": "597dabebd57e9e82eba27dae23c03297d2b2126d",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bc110f43a21b",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -91041,6 +93393,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM CRYSTAL",
+			"inGameID": 8177
+		},
+		"difficulty": "布☆4",
+		"id": "C19e10e7a402e5a253cc",
+		"isPrimary": true,
+		"legacyChartID": "25a19db6b69f19490d15078de4690fdc79a63cf2",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bc1c8c0353a4",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -94606,6 +96972,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM CRYSTAL PLUS",
+			"inGameID": 8197
+		},
+		"difficulty": "狂☆4",
+		"id": "C19e10e7a40228389e56",
+		"isPrimary": true,
+		"legacyChartID": "951e06e3a574bac99f744d0acb67968c0d2f9213",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bc38d560320a",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM AMAZON PLUS",
 			"inGameID": 774
 		},
@@ -95375,6 +97755,20 @@
 			"verse-omni",
 			"xverse-omni"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM CRYSTAL PLUS",
+			"inGameID": 8187
+		},
+		"difficulty": "招☆4",
+		"id": "C19e10e7a402c9c5fd42",
+		"isPrimary": true,
+		"legacyChartID": "10864f7902320e11eb65dbfe27395c7ffbc42e83",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bc3e83a6dea0",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -98074,6 +100468,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM CRYSTAL",
+			"inGameID": 8176
+		},
+		"difficulty": "狂☆1",
+		"id": "C19e10e7a4025bc821dd",
+		"isPrimary": true,
+		"legacyChartID": "e9bec97830248de1d65c6785ea62b60d8d2bd5af",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bc5230be88d6",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM AMAZON PLUS",
 			"inGameID": 802
 		},
@@ -98853,6 +101261,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM CRYSTAL",
+			"inGameID": 8175
+		},
+		"difficulty": "招☆2",
+		"id": "C19e10e7a4026324d9b9",
+		"isPrimary": true,
+		"legacyChartID": "6db21b4af71d6df7e47f4293e597cffbd39b5f09",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bc5a15ae802c",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -105107,6 +107529,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM PARADISE",
+			"inGameID": 8205
+		},
+		"difficulty": "避☆3",
+		"id": "C19e10e7a4024ae02b53",
+		"isPrimary": true,
+		"legacyChartID": "5da5936cd965928ba3b12bd57d3779acde599758",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bc88e664cf56",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM CRYSTAL",
 			"inGameID": 853
 		},
@@ -105712,6 +108148,20 @@
 			"verse-omni",
 			"xverse-omni"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM PARADISE",
+			"inGameID": 8202
+		},
+		"difficulty": "割☆2",
+		"id": "C19e10e7a402f9fa2d71",
+		"isPrimary": true,
+		"legacyChartID": "885fbc6ad6b20a08927e1959acce4f720057afd4",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bc8d4913b5f8",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -107012,6 +109462,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM NEW PLUS",
+			"inGameID": 8239
+		},
+		"difficulty": "割☆1",
+		"id": "C19e10e7a40258c5d36f",
+		"isPrimary": true,
+		"legacyChartID": "237d6fb45f132dadc822fa23b8d26fa6bc296b76",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bc9811327fa0",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -108627,6 +111091,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM PARADISE",
+			"inGameID": 8201
+		},
+		"difficulty": "戻☆4",
+		"id": "C19e10e7a402316f520b",
+		"isPrimary": true,
+		"legacyChartID": "eb10f707c9079a0cae21c6b016542d1ec5268e83",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bca330b49f06",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM CRYSTAL",
 			"inGameID": 880
 		},
@@ -108920,6 +111398,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM NEW",
+			"inGameID": 8228
+		},
+		"difficulty": "狂☆5",
+		"id": "C19e10e7a4026730e7cb",
+		"isPrimary": true,
+		"legacyChartID": "42a4c28d63ae94f4e98a7ac3f0544189069e9526",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bca584fcaf98",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -109556,6 +112048,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM PARADISE",
+			"inGameID": 8204
+		},
+		"difficulty": "招☆3",
+		"id": "C19e10e7a40263deb1d8",
+		"isPrimary": true,
+		"legacyChartID": "92f00192eb3da669b6d428a2621fd2e789743b0f",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bcaa379a43ba",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -110271,6 +112777,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM PARADISE LOST",
+			"inGameID": 8232
+		},
+		"difficulty": "狂☆3",
+		"id": "C19e10e7a40288fbe61f",
+		"isPrimary": true,
+		"legacyChartID": "51bc50ca9938f3270c2be48faf637e10b836ec27",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bcafa9a6e769",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM CRYSTAL",
 			"inGameID": 892
 		},
@@ -110959,6 +113479,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM NEW",
+			"inGameID": 8225
+		},
+		"difficulty": "撃☆2",
+		"id": "C19e10e7a402c1d67af2",
+		"isPrimary": true,
+		"legacyChartID": "1285f8ad0095cc4d0272bf3e5ee1bdbb162db61c",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bcb46ba2949b",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM CRYSTAL",
 			"inGameID": 897
 		},
@@ -111417,6 +113951,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM CRYSTAL PLUS",
+			"inGameID": 8183
+		},
+		"difficulty": "蔵☆4",
+		"id": "C19e10e7a402cb5a8729",
+		"isPrimary": true,
+		"legacyChartID": "7713a63e853a1218699f420a73fa89b96e128563",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bcb895f53aa3",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM CRYSTAL",
 			"inGameID": 901
 		},
@@ -111865,6 +114413,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM NEW",
+			"inGameID": 8222
+		},
+		"difficulty": "割☆3",
+		"id": "C19e10e7a40237c52f20",
+		"isPrimary": true,
+		"legacyChartID": "7d012cd7907dbf3b34c87e2ad8ef44a129765255",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bcbc28e1286e",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM CRYSTAL PLUS",
 			"inGameID": 905
 		},
@@ -112062,6 +114624,20 @@
 			"verse-omni",
 			"xverse-omni"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM NEW",
+			"inGameID": 8217
+		},
+		"difficulty": "割☆2",
+		"id": "C19e10e7a40269c96e27",
+		"isPrimary": true,
+		"legacyChartID": "d829fd6ebb6a3edeca227d4c9353c1322dd9ab6c",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bcbf1dd2b18f",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -112754,6 +115330,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM NEW",
+			"inGameID": 8219
+		},
+		"difficulty": "狂☆3",
+		"id": "C19e10e7a402d73795ba",
+		"isPrimary": true,
+		"legacyChartID": "f89149b3c88367506534912d1b972cf35f24d2bd",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bcc40589d932",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -116381,6 +118971,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM NEW",
+			"inGameID": 8216
+		},
+		"difficulty": "蔵☆3",
+		"id": "C19e10e7a4027f6df93c",
+		"isPrimary": true,
+		"legacyChartID": "87f5e03ad3021d6c35c66454950a94e9b9120070",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bcde95091107",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM CRYSTAL PLUS",
 			"inGameID": 939
 		},
@@ -119841,6 +122445,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM NEW",
+			"inGameID": 8213
+		},
+		"difficulty": "狂☆2",
+		"id": "C19e10e7a40268615427",
+		"isPrimary": true,
+		"legacyChartID": "3d294f0bd4dafb5abc6ca6cc6b85e10e00cf31d4",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bcf7a99218cf",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM CRYSTAL PLUS",
 			"inGameID": 964
 		},
@@ -120630,6 +123248,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM NEW",
+			"inGameID": 8223
+		},
+		"difficulty": "両☆2",
+		"id": "C19e10e7a4027c358d5b",
+		"isPrimary": true,
+		"legacyChartID": "8e9ab2377f33853dcf8a5b224d60c4e259b8b766",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bcfd0b4b8f3e",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -122506,6 +125138,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM SUN",
+			"inGameID": 8256
+		},
+		"difficulty": "光☆3",
+		"id": "C19e10e7a402df6964ec",
+		"isPrimary": true,
+		"legacyChartID": "8df6dab6e6bf6a86c54f0217933930330d8e98f3",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bd0ad15632e8",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -125997,6 +128643,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM NEW",
+			"inGameID": 8215
+		},
+		"difficulty": "撃☆4",
+		"id": "C19e10e7a4027cc96894",
+		"isPrimary": true,
+		"legacyChartID": "a457f96c7be1ad7f9711a5d1e1b20d4c1d612384",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bd26f088e1f8",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM PARADISE",
 			"inGameID": 1011
 		},
@@ -126290,6 +128950,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM NEW PLUS",
+			"inGameID": 8233
+		},
+		"difficulty": "？☆3",
+		"id": "C19e10e7a40229104189",
+		"isPrimary": true,
+		"legacyChartID": "19111105ac1ec652f615c95ecb450886d5146244",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bd2972ef77f5",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -129303,6 +131977,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM PARADISE LOST",
+			"inGameID": 8229
+		},
+		"difficulty": "半☆3",
+		"id": "C19e10e7a40276849035",
+		"isPrimary": true,
+		"legacyChartID": "81f2a3fadd8940c895bb5409f22045521f8539ef",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bd3d90ba3923",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM PARADISE",
 			"inGameID": 1035
 		},
@@ -130146,6 +132834,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM PARADISE LOST",
+			"inGameID": 8212
+		},
+		"difficulty": "招☆1",
+		"id": "C19e10e7a40251e59da4",
+		"isPrimary": true,
+		"legacyChartID": "4f00251760e7177b08e9467c1cf321266bb268e9",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bd440f934e9f",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -131506,6 +134208,20 @@
 			"verse-omni",
 			"xverse-omni"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM NEW",
+			"inGameID": 8221
+		},
+		"difficulty": "止☆3",
+		"id": "C19e10e7a402f666696d",
+		"isPrimary": true,
+		"legacyChartID": "bc8306b95b12306a41a41a16cbb5d05a5b35181c",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bd51f2b16524",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -135179,6 +137895,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM NEW PLUS",
+			"inGameID": 8236
+		},
+		"difficulty": "止☆2",
+		"id": "C19e10e7a402c2d1374c",
+		"isPrimary": true,
+		"legacyChartID": "7318f6147c0065b96cfde6a4c62fd51b7f016ae5",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bd6a8ab50975",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM PARADISE LOST",
 			"inGameID": 1079
 		},
@@ -137227,6 +139957,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM NEW",
+			"inGameID": 8224
+		},
+		"difficulty": "半☆3",
+		"id": "C19e10e7a402b49d5517",
+		"isPrimary": true,
+		"legacyChartID": "cc29fac8f9410d56f5052a7164a0dc013c9a2bf3",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bd78e0a837c8",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM PARADISE LOST",
 			"inGameID": 1093
 		},
@@ -137875,6 +140619,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM PARADISE LOST",
+			"inGameID": 8230
+		},
+		"difficulty": "覚☆2",
+		"id": "C19e10e7a40251c8db85",
+		"isPrimary": true,
+		"legacyChartID": "e26b398d280569047c0f57d608d0685ad56f2ff9",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bd7e6d62ca5b",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM PARADISE",
 			"inGameID": 1099
 		},
@@ -138020,6 +140778,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM LUMINOUS",
+			"inGameID": 8278
+		},
+		"difficulty": "招☆1",
+		"id": "C19e10e7a40217bfb3db",
+		"isPrimary": true,
+		"legacyChartID": "62aea411cb11742e894271b2f03bf22faa6562e5",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0bd7fcd0f7837",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -143351,6 +146123,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM NEW PLUS",
+			"inGameID": 8235
+		},
+		"difficulty": "割☆4",
+		"id": "C19e10e7a402af3865b8",
+		"isPrimary": true,
+		"legacyChartID": "4e82862b782f5baaca55e65f69b167b074645396",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0c127c7e441ce",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM NEW",
 			"inGameID": 2036
 		},
@@ -143899,6 +146685,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM NEW PLUS",
+			"inGameID": 8240
+		},
+		"difficulty": "跳☆4",
+		"id": "C19e10e7a4022876eb0b",
+		"isPrimary": true,
+		"legacyChartID": "32b2dff9498021f164ca591f6fa3ef8d005df0a3",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0c12baa7ddae0",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM NEW",
 			"inGameID": 2040
 		},
@@ -144324,6 +147124,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM SUN",
+			"inGameID": 8257
+		},
+		"difficulty": "止☆4",
+		"id": "C19e10e7a402e89b6094",
+		"isPrimary": true,
+		"legacyChartID": "0e2e71193ccaa880be18022a8c20c5cc6892bbeb",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0c12ef576fbe9",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -144900,6 +147714,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM NEW",
+			"inGameID": 8218
+		},
+		"difficulty": "敷☆2",
+		"id": "C19e10e7a4023d98deec",
+		"isPrimary": true,
+		"legacyChartID": "c5b1ab1597b30cffcf0408300548138bbfc804c6",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0c132a4ad8732",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -147509,6 +150337,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM SUN",
+			"inGameID": 8253
+		},
+		"difficulty": "蔵☆3",
+		"id": "C19e10e7a402f72e96be",
+		"isPrimary": true,
+		"legacyChartID": "47319dc5403fb40694916d41f2800726963cf0ab",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0c145a469d3d1",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM NEW",
 			"inGameID": 2066
 		},
@@ -149030,6 +151872,20 @@
 			"verse-omni",
 			"xverse-omni"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM SUN",
+			"inGameID": 8250
+		},
+		"difficulty": "招☆1",
+		"id": "C19e10e7a4022d4a85bb",
+		"isPrimary": true,
+		"legacyChartID": "51827393bca104b5c2bf5f0d957ce946d402abf6",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0c1503dbc58f6",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -150870,6 +153726,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM NEW PLUS",
+			"inGameID": 8242
+		},
+		"difficulty": "狂☆5",
+		"id": "C19e10e7a40234dee55d",
+		"isPrimary": true,
+		"legacyChartID": "b55f55e521ed2f4901f3255169d348814b47ffdc",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0c15dcd356ad1",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -158003,6 +160873,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM LUMINOUS",
+			"inGameID": 8276
+		},
+		"difficulty": "両☆2",
+		"id": "C19e10e7a40238da0d3e",
+		"isPrimary": true,
+		"legacyChartID": "19a72e1073a0371dc9268c20dc6b0502a8cb088f",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0c192c65454ed",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM NEW",
 			"inGameID": 2143
 		},
@@ -158548,6 +161432,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM SUN",
+			"inGameID": 8251
+		},
+		"difficulty": "撃☆3",
+		"id": "C19e10e7a4025f5e4a91",
+		"isPrimary": true,
+		"legacyChartID": "b330236815f8d8a2f36d99af5a5067873bd9d3e1",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0c1969ab02fea",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -162439,6 +165337,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM SUN",
+			"inGameID": 8254
+		},
+		"difficulty": "？☆2",
+		"id": "C19e10e7a4025ee21a98",
+		"isPrimary": true,
+		"legacyChartID": "a52560ff9325b0c7dcdbce4f5e5bcac05fa84a1b",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0c1b46c227daa",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM NEW PLUS",
 			"inGameID": 2176
 		},
@@ -163689,6 +166601,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM SUN",
+			"inGameID": 8255
+		},
+		"difficulty": "招☆4",
+		"id": "C19e10e7a402cebc3b3c",
+		"isPrimary": true,
+		"legacyChartID": "c187dece624752a721313cff7e2be0eca10fcda5",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0c1bcf5f85d64",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM NEW PLUS",
 			"inGameID": 2185
 		},
@@ -164106,6 +167032,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM LUMINOUS",
+			"inGameID": 8271
+		},
+		"difficulty": "時☆3",
+		"id": "C19e10e7a402490ba59f",
+		"isPrimary": true,
+		"legacyChartID": "7b6d69efe2ddd5c5105c58909505fb118dda6867",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0c1bf68ad7977",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -171163,6 +174103,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM SUN",
+			"inGameID": 8258
+		},
+		"difficulty": "狂☆5",
+		"id": "C19e10e7a4022fd03d7d",
+		"isPrimary": true,
+		"legacyChartID": "e16a1fde77ceeb85d8575b1b775680d9fe837e9b",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0c1f3b407b549",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM NEW PLUS",
 			"inGameID": 2240
 		},
@@ -173628,6 +176582,20 @@
 			"verse-omni",
 			"xverse-omni"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM SUN PLUS",
+			"inGameID": 8262
+		},
+		"difficulty": "光☆2",
+		"id": "C19e10e7a402d8c26bc8",
+		"isPrimary": true,
+		"legacyChartID": "04815849c4bf805721dd89f5b75201e1bc6f299f",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0c20732befce8",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -181875,6 +184843,20 @@
 	},
 	{
 		"data": {
+			"displayVersion": "CHUNITHM SUN PLUS",
+			"inGameID": 8266
+		},
+		"difficulty": "両☆2",
+		"id": "C19e10e7a402623a4080",
+		"isPrimary": true,
+		"legacyChartID": "9d7be45efe01f972321c5791eff521b60cf682c1",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0c246cdd974db",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
 			"displayVersion": "CHUNITHM SUN",
 			"inGameID": 2323
 		},
@@ -183232,6 +186214,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM SUN PLUS",
+			"inGameID": 8261
+		},
+		"difficulty": "覚☆2",
+		"id": "C19e10e7a4025fb6a418",
+		"isPrimary": true,
+		"legacyChartID": "5cca4deda57ae6bc1019567ffc22a5a5110a2619",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0c2511b11d428",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -185940,6 +188936,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM SUN PLUS",
+			"inGameID": 8269
+		},
+		"difficulty": "蔵☆4",
+		"id": "C19e10e7a402144f8d91",
+		"isPrimary": true,
+		"legacyChartID": "a71857d50787967d11b1ce4c7339137f5e28a784",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0c26697e14d59",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -191702,6 +194712,20 @@
 			"xverse-omni",
 			"xversex"
 		]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM LUMINOUS",
+			"inGameID": 8279
+		},
+		"difficulty": "跳☆1",
+		"id": "C19e10e7a40252c3100f",
+		"isPrimary": true,
+		"legacyChartID": "dc50d3778580113f3be74e6354dfb193c9c674cb",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0c29d2d3c863c",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -202408,6 +205432,20 @@
 	{
 		"data": {
 			"displayVersion": "CHUNITHM LUMINOUS PLUS",
+			"inGameID": 8284
+		},
+		"difficulty": "弾☆3",
+		"id": "C19e10e7a4022b0e319b",
+		"isPrimary": true,
+		"legacyChartID": "fc93ff4740f8c1a120eca95c7d07a2e69f5399af",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0c2ffb13e3820",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM LUMINOUS PLUS",
 			"inGameID": 8283
 		},
 		"difficulty": "戻☆3",
@@ -202418,6 +205456,20 @@
 		"levelNum": 0,
 		"songID": "S19d35e0c2ffb13e3820",
 		"versions": ["xversex"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM LUMINOUS PLUS",
+			"inGameID": 8285
+		},
+		"difficulty": "避☆2",
+		"id": "C19e10e7a40276aa68a8",
+		"isPrimary": true,
+		"legacyChartID": "422d3d09e9ae5488c6ccceb0708121c1ad10667a",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19d35e0c2ffb13e3820",
+		"versions": ["xversex-omni"]
 	},
 	{
 		"data": {
@@ -236485,5 +239537,47 @@
 		"levelNum": 16,
 		"songID": "S19e107c9274f0e77da6",
 		"versions": ["xversex"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM PARADISE",
+			"inGameID": 8207
+		},
+		"difficulty": "時☆2",
+		"id": "C19e10e7a4022f97beac",
+		"isPrimary": true,
+		"legacyChartID": "588dbe8f8afaf8e237602c2470d7fc317882c985",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19e10e7279d1cdb21d0",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AMAZON PLUS",
+			"inGameID": 8150
+		},
+		"difficulty": "避☆1",
+		"id": "C19e10e7a4022f173d13",
+		"isPrimary": true,
+		"legacyChartID": "7b7bfb2aed8ce499be3debb9ed8867586df3d7a1",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19e10e7279d6177f69f",
+		"versions": ["xversex-omni"]
+	},
+	{
+		"data": {
+			"displayVersion": "CHUNITHM AMAZON",
+			"inGameID": 8147
+		},
+		"difficulty": "謎☆1",
+		"id": "C19e10e7a402b482081d",
+		"isPrimary": true,
+		"legacyChartID": "3c8ae2e85acb95c7bc2aaee39843e6dec355efce",
+		"level": "",
+		"levelNum": 0,
+		"songID": "S19e10e7279df9618de1",
+		"versions": ["xversex-omni"]
 	}
 ]
